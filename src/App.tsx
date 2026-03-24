@@ -63,12 +63,20 @@ function App() {
     window.speechSynthesis.cancel();
     const msg = new SpeechSynthesisUtterance(text);
     msg.lang = "ja-JP";
-
     msg.rate = 0.6;
     msg.pitch = 1.3;
     msg.volume = 1;
-
+    const voices = window.speechSynthesis.getVoices();
+    const jpVoice = voices.find(
+      (v) => v.lang === "ja-JP" || v.lang.includes("ja"),
+    );
+    if (jpVoice) {
+      msg.voice = jpVoice;
+    }
     window.speechSynthesis.speak(msg);
+    msg.onerror = (event) => {
+      console.error("SpeechSynthesis Error:", event);
+    };
   };
 
   //quiz
