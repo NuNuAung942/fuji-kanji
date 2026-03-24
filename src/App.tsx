@@ -60,24 +60,29 @@ function App() {
   const isLastCard = currentIndex === kanjiList.length - 1;
 
   const handleSpeak = (text: string) => {
-    window.speechSynthesis.cancel();
+    const synth = window.speechSynthesis;
 
-    const msg = new SpeechSynthesisUtterance(text);
-    msg.lang = "ja-JP";
-    msg.rate = 0.7;
-    msg.pitch = 1.0;
-    msg.volume = 1.0;
-    const voices = window.speechSynthesis.getVoices();
-    const jpVoice = voices.find((v) => v.lang.startsWith("ja"));
+    const speakNow = () => {
+      const voices = synth.getVoices();
 
-    if (jpVoice) {
-      msg.voice = jpVoice;
+      const msg = new SpeechSynthesisUtterance(text);
+      msg.lang = "ja-JP";
+      msg.rate = 0.7;
+
+      const jpVoice = voices.find((v) => v.lang.startsWith("ja"));
+
+      if (jpVoice) {
+        msg.voice = jpVoice;
+      }
+
+      synth.cancel();
+      synth.speak(msg);
+    };
+    if (synth.getVoices().length === 0) {
+      synth.onvoiceschanged = speakNow;
+    } else {
+      speakNow();
     }
-    if (window.speechSynthesis.paused) {
-      window.speechSynthesis.resume();
-    }
-
-    window.speechSynthesis.speak(msg);
   };
 
   //quiz
