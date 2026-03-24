@@ -85,8 +85,14 @@ function App() {
   };
 
   useEffect(() => {
+    if (typeof window === "undefined" || !window.speechSynthesis) return;
+
     const prepareVoices = () => {
-      window.speechSynthesis.getVoices();
+      try {
+        window.speechSynthesis.getVoices();
+      } catch (e) {
+        console.error("Speech loading error:", e);
+      }
     };
 
     prepareVoices();
