@@ -1,0 +1,1035 @@
+{
+  "week": 3,
+  "week_title": "つかう (Use)",
+  "days": [
+    {
+      "day": 1,
+      "day_title": "要冷蔵 (Keep Refrigerated)",
+      "kanji_list": [
+        {
+          "id": 301,
+          "kanji": "要",
+          "meaning_en": "Necessary",
+          "meaning_mm": "လိုအပ်သော",
+          "onyomi": "ヨウ",
+          "kunyomi": "い-る",
+          "compounds": [
+            {
+              "kanji": "必要（な）",
+              "reading": "ひつよう（な）",
+              "meaning_mm": "လိုအပ်သော"
+            },
+            { "kanji": "要る", "reading": "いる", "meaning_mm": "လိုအပ်သည်" },
+            {
+              "kanji": "重要（な）",
+              "reading": "じゅうよう（な）",
+              "meaning_mm": "အရေးကြီးသော"
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "kanji": "冷",
+          "meaning_en": "Cool/Chill",
+          "meaning_mm": "အေးသော",
+          "onyomi": "レイ",
+          "kunyomi": "つめ-たい/ひ-やす/さ-める",
+          "compounds": [
+            {
+              "kanji": "冷房",
+              "reading": "れいぼう",
+              "meaning_mm": "လေအေးပေးစက်"
+            },
+            {
+              "kanji": "冷やす",
+              "reading": "ひやす",
+              "meaning_mm": "အေးအောင်လုပ်သည်"
+            },
+            {
+              "kanji": "冷める",
+              "reading": "さめる",
+              "meaning_mm": "အေးသွားသည် (ဟင်း)"
+            },
+            {
+              "kanji": "冷たい",
+              "reading": "つめたい",
+              "meaning_mm": "အေးစက်သော"
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "kanji": "蔵",
+          "meaning_en": "Storehouse",
+          "meaning_mm": "သိုလှောင်ရုံ",
+          "onyomi": "ゾウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "冷蔵庫",
+              "reading": "れいぞうこ",
+              "meaning_mm": "ရေခဲသေတ္တာ"
+            }
+          ]
+        },
+        {
+          "id": 304,
+          "kanji": "凍",
+          "meaning_en": "Freeze",
+          "meaning_mm": "ခဲနေသော",
+          "onyomi": "トウ",
+          "kunyomi": "こお-る",
+          "compounds": [
+            {
+              "kanji": "冷凍庫",
+              "reading": "れいとうこ",
+              "meaning_mm": "ရေခဲသေတ္တာ (အပေါ်ခဲခန်း)"
+            },
+            { "kanji": "凍る", "reading": "こおる", "meaning_mm": "ခဲသည်" }
+          ]
+        },
+        {
+          "id": 305,
+          "kanji": "庫",
+          "meaning_en": "Warehouse",
+          "meaning_mm": "ဂိုဒေါင်",
+          "onyomi": "コ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "金庫",
+              "reading": "きんこ",
+              "meaning_mm": "မီးခံသေတ္တာ"
+            },
+            {
+              "kanji": "車庫",
+              "reading": "しゃこ",
+              "meaning_mm": "ကားဂိုဒေါင်"
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "kanji": "召",
+          "meaning_en": "Eat/Drink (Honorific)",
+          "meaning_mm": "စားသည်/သောက်သည် (ယဉ်ကျေး)",
+          "onyomi": "-",
+          "kunyomi": "め-す",
+          "compounds": [
+            {
+              "kanji": "召し上がる",
+              "reading": "めしあがる",
+              "meaning_mm": "စားသုံးသည် (ယဉ်ကျေး)"
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "kanji": "保",
+          "meaning_en": "Preserve",
+          "meaning_mm": "ထိန်းသိမ်းခြင်း",
+          "onyomi": "ホ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "保存する",
+              "reading": "ほぞんする",
+              "meaning_mm": "ထိန်းသိမ်းသိမ်းဆည်းသည်"
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "kanji": "存",
+          "meaning_en": "Exist/Know",
+          "meaning_mm": "ရှိသည်/သိသည်",
+          "onyomi": "ゾン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "ご存じです",
+              "reading": "ごぞんじです",
+              "meaning_mm": "သိရှိတော်မူသည်"
+            },
+            {
+              "kanji": "存じません",
+              "reading": "ぞんじません",
+              "meaning_mm": "မသိပါ (နှိမ့်ချ)"
+            }
+          ]
+        },
+        {
+          "id": 309,
+          "kanji": "必",
+          "meaning_en": "Invariably/Certain",
+          "meaning_mm": "မလွဲဧကန်",
+          "onyomi": "ヒツ",
+          "kunyomi": "かなら-ず",
+          "compounds": [
+            {
+              "kanji": "必ず",
+              "reading": "かならず",
+              "meaning_mm": "မလွဲမသွေ/သေချာပေါက်"
+            },
+            {
+              "kanji": "必死（に）",
+              "reading": "ひっし（に）",
+              "meaning_mm": "အသည်းအသန်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "消費期限 (Consume By Date)",
+      "kanji_list": [
+        {
+          "id": 310,
+          "kanji": "費",
+          "meaning_en": "Expense/Cost",
+          "meaning_mm": "ကုန်ကျစရိတ်",
+          "onyomi": "ヒ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "費用",
+              "reading": "ひよう",
+              "meaning_mm": "ကုန်ကျစရိတ်"
+            },
+            {
+              "kanji": "消費者",
+              "reading": "しょうひしゃ",
+              "meaning_mm": "စားသုံးသူ"
+            },
+            { "kanji": "旅費", "reading": "りょひ", "meaning_mm": "ခရီးစရိတ်" },
+            {
+              "kanji": "会費",
+              "reading": "かいひ",
+              "meaning_mm": "အသင်းဝင်ကြေး"
+            }
+          ]
+        },
+        {
+          "id": 311,
+          "kanji": "期",
+          "meaning_en": "Period/Term",
+          "meaning_mm": "ကာလ",
+          "onyomi": "キ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "期間",
+              "reading": "きかん",
+              "meaning_mm": "ကာလ/အချိန်အပိုင်းအခြား"
+            },
+            {
+              "kanji": "定期券",
+              "reading": "ていきけん",
+              "meaning_mm": "ရထားလတ်မှတ် (ရာသီစာ)"
+            },
+            {
+              "kanji": "長期",
+              "reading": "ちょうき",
+              "meaning_mm": "ရေရှည်ကာလ"
+            },
+            { "kanji": "短期", "reading": "たんき", "meaning_mm": "ရေတိုကာလ" }
+          ]
+        },
+        {
+          "id": 312,
+          "kanji": "限",
+          "meaning_en": "Limit",
+          "meaning_mm": "ကန့်သတ်ချက်",
+          "onyomi": "ゲン",
+          "kunyomi": "かぎ-る",
+          "compounds": [
+            {
+              "kanji": "期限",
+              "reading": "きげん",
+              "meaning_mm": "သတ်မှတ်ရက်"
+            },
+            { "kanji": "限度", "reading": "げんど", "meaning_mm": "အကန့်အသတ်" },
+            {
+              "kanji": "限る",
+              "reading": "かぎる",
+              "meaning_mm": "ကန့်သတ်သည်"
+            },
+            {
+              "kanji": "限定",
+              "reading": "げんてい",
+              "meaning_mm": "ကန့်သတ်ထားသော"
+            }
+          ]
+        },
+        {
+          "id": 313,
+          "kanji": "製",
+          "meaning_en": "Manufacture",
+          "meaning_mm": "ထုတ်လုပ်ခြင်း",
+          "onyomi": "セイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "〇〇製",
+              "reading": "〇〇せい",
+              "meaning_mm": "...တွင်ထုတ်လုပ်သည်"
+            },
+            {
+              "kanji": "製品",
+              "reading": "せいひん",
+              "meaning_mm": "ကုန်ပစ္စည်း"
+            }
+          ]
+        },
+        {
+          "id": 314,
+          "kanji": "造",
+          "meaning_en": "Create/Make",
+          "meaning_mm": "ပြုလုပ်ဖန်တီးခြင်း",
+          "onyomi": "ゾウ",
+          "kunyomi": "つく-る",
+          "compounds": [
+            {
+              "kanji": "製造",
+              "reading": "せいぞう",
+              "meaning_mm": "ထုတ်လုပ်မှု"
+            },
+            { "kanji": "造る", "reading": "つくる", "meaning_mm": "ပြုလုပ်သည်" }
+          ]
+        },
+        {
+          "id": 315,
+          "kanji": "賞",
+          "meaning_en": "Award/Prize",
+          "meaning_mm": "ဆု",
+          "onyomi": "ショウ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "賞", "reading": "しょう", "meaning_mm": "ဆု" },
+            {
+              "kanji": "賞味期限",
+              "reading": "しょうみきげん",
+              "meaning_mm": "အရသာအကောင်းဆုံးကာလ"
+            },
+            {
+              "kanji": "賞金",
+              "reading": "しょうきん",
+              "meaning_mm": "ဆုကြေးငွေ"
+            },
+            {
+              "kanji": "賞品",
+              "reading": "しょうひん",
+              "meaning_mm": "ဆုလက်ဆောင်ပစ္စည်း"
+            }
+          ]
+        },
+        {
+          "id": 316,
+          "kanji": "法",
+          "meaning_en": "Method/Law",
+          "meaning_mm": "နည်းလမ်း/ဥပဒေ",
+          "onyomi": "ホウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "方法",
+              "reading": "ほうほう",
+              "meaning_mm": "နည်းလမ်း"
+            },
+            { "kanji": "文法", "reading": "ぶんぽう", "meaning_mm": "သဒ္ဒါ" }
+          ]
+        },
+        {
+          "id": 317,
+          "kanji": "温",
+          "meaning_en": "Warm/Temperature",
+          "meaning_mm": "နွေးထွေးသော",
+          "onyomi": "オン",
+          "kunyomi": "あたた-かい",
+          "compounds": [
+            { "kanji": "温度", "reading": "おんど", "meaning_mm": "အပူချိန်" },
+            {
+              "kanji": "気温",
+              "reading": "きおん",
+              "meaning_mm": "လေထုအပူချိန်"
+            },
+            {
+              "kanji": "温かい",
+              "reading": "あたたかい",
+              "meaning_mm": "နွေးထွေးသော"
+            },
+            {
+              "kanji": "常温",
+              "reading": "じょうおん",
+              "meaning_mm": "သာမန်အပူချိန်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "自動販売機 (Vending Machines)",
+      "kanji_list": [
+        {
+          "id": 318,
+          "kanji": "販",
+          "meaning_en": "Sell",
+          "meaning_mm": "ရောင်းချခြင်း",
+          "onyomi": "ハン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "販売",
+              "reading": "はんばい",
+              "meaning_mm": "ရောင်းချခြင်း"
+            },
+            {
+              "kanji": "自動販売機",
+              "reading": "じどうはんばいき",
+              "meaning_mm": "အလိုအလျောက်အရောင်းစက်"
+            }
+          ]
+        },
+        {
+          "id": 319,
+          "kanji": "機",
+          "meaning_en": "Machine/Opportunity",
+          "meaning_mm": "စက်ယန္တရား",
+          "onyomi": "キ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "飛行機",
+              "reading": "ひこうき",
+              "meaning_mm": "လေယာဉ်ပျံ"
+            },
+            { "kanji": "機械", "reading": "きかい", "meaning_mm": "စက်" },
+            { "kanji": "機会", "reading": "きかい", "meaning_mm": "အခွင့်အရေး" }
+          ]
+        },
+        {
+          "id": 320,
+          "kanji": "増",
+          "meaning_en": "Increase",
+          "meaning_mm": "တိုးပွားခြင်း",
+          "onyomi": "ゾウ",
+          "kunyomi": "ふ-える/ふ-やす",
+          "compounds": [
+            {
+              "kanji": "増加",
+              "reading": "ぞうか",
+              "meaning_mm": "တိုးပွားလာခြင်း"
+            },
+            {
+              "kanji": "増える",
+              "reading": "ふえる",
+              "meaning_mm": "တိုးပွားသည် (အလိုအလျောက်)"
+            },
+            {
+              "kanji": "増やす",
+              "reading": "ふやす",
+              "meaning_mm": "တိုးပွားအောင်လုပ်သည်"
+            }
+          ]
+        },
+        {
+          "id": 321,
+          "kanji": "減",
+          "meaning_en": "Decrease",
+          "meaning_mm": "လျော့နည်းခြင်း",
+          "onyomi": "ゲン",
+          "kunyomi": "へ-る/へ-らす",
+          "compounds": [
+            {
+              "kanji": "減少",
+              "reading": "げんしょう",
+              "meaning_mm": "လျော့နည်းသွားခြင်း"
+            },
+            {
+              "kanji": "減る",
+              "reading": "へる",
+              "meaning_mm": "လျော့နည်းသည်"
+            },
+            {
+              "kanji": "減らす",
+              "reading": "へらす",
+              "meaning_mm": "လျှော့ချသည်"
+            }
+          ]
+        },
+        {
+          "id": 322,
+          "kanji": "量",
+          "meaning_en": "Quantity",
+          "meaning_mm": "ပမာဏ",
+          "onyomi": "リョウ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "量", "reading": "りょう", "meaning_mm": "ပမာဏ" },
+            {
+              "kanji": "数量",
+              "reading": "すうりょう",
+              "meaning_mm": "အရေအတွက်ပမာဏ"
+            },
+            {
+              "kanji": "増量",
+              "reading": "ぞうりょう",
+              "meaning_mm": "ပမာဏတိုးခြင်း"
+            },
+            {
+              "kanji": "減量",
+              "reading": "げんりょう",
+              "meaning_mm": "ပမာဏလျှော့ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 323,
+          "kanji": "氷",
+          "meaning_en": "Ice",
+          "meaning_mm": "ရေခဲ",
+          "onyomi": "-",
+          "kunyomi": "こおり",
+          "compounds": [
+            { "kanji": "氷", "reading": "こおり", "meaning_mm": "ရေခဲ" }
+          ]
+        },
+        {
+          "id": 324,
+          "kanji": "返",
+          "meaning_en": "Return",
+          "meaning_mm": "ပြန်ပေးခြင်း",
+          "onyomi": "ヘン",
+          "kunyomi": "かえ-す",
+          "compounds": [
+            {
+              "kanji": "返事",
+              "reading": "へんじ",
+              "meaning_mm": "ပြန်ကြားစာ/အဖြေ"
+            },
+            {
+              "kanji": "返却",
+              "reading": "へんきゃく",
+              "meaning_mm": "ပြန်လည်အပ်နှံခြင်း"
+            },
+            { "kanji": "返す", "reading": "かえす", "meaning_mm": "ပြန်ပေးသည်" }
+          ]
+        },
+        {
+          "id": 325,
+          "kanji": "湯",
+          "meaning_en": "Hot water",
+          "meaning_mm": "ရေနွေး",
+          "onyomi": "-",
+          "kunyomi": "ゆ",
+          "compounds": [
+            {
+              "kanji": "（お）湯",
+              "reading": "（お）ゆ",
+              "meaning_mm": "ရေနွေး"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "レシピ (Recipes)",
+      "kanji_list": [
+        {
+          "id": 326,
+          "kanji": "材",
+          "meaning_en": "Materials",
+          "meaning_mm": "ကုန်ကြမ်း",
+          "onyomi": "ザイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "材料",
+              "reading": "ざいりょう",
+              "meaning_mm": "ပါဝင်ပစ္စည်းများ"
+            },
+            {
+              "kanji": "教材",
+              "reading": "きょうざい",
+              "meaning_mm": "သင်ထောက်ကူပစ္စည်း"
+            }
+          ]
+        },
+        {
+          "id": 327,
+          "kanji": "卵",
+          "meaning_en": "Egg",
+          "meaning_mm": "ကြက်ဥ",
+          "onyomi": "-",
+          "kunyomi": "たまご",
+          "compounds": [
+            { "kanji": "卵", "reading": "たまご", "meaning_mm": "ကြက်ဥ/ဥ" },
+            {
+              "kanji": "卵焼き",
+              "reading": "たまごやき",
+              "meaning_mm": "ကြက်ဥလိပ်"
+            }
+          ]
+        },
+        {
+          "id": 328,
+          "kanji": "乳",
+          "meaning_en": "Milk",
+          "meaning_mm": "နို့",
+          "onyomi": "ニュウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "牛乳",
+              "reading": "ぎゅうにゅう",
+              "meaning_mm": "နွားနို့"
+            }
+          ]
+        },
+        {
+          "id": 329,
+          "kanji": "粉",
+          "meaning_en": "Powder",
+          "meaning_mm": "အမှုန့်",
+          "onyomi": "-",
+          "kunyomi": "こな/こ",
+          "compounds": [
+            { "kanji": "粉", "reading": "こな", "meaning_mm": "အမှုန့်" },
+            {
+              "kanji": "小麦粉",
+              "reading": "こむぎこ",
+              "meaning_mm": "ဂျုံမှုန့်"
+            }
+          ]
+        },
+        {
+          "id": 330,
+          "kanji": "袋",
+          "meaning_en": "Bag",
+          "meaning_mm": "အိတ်",
+          "onyomi": "-",
+          "kunyomi": "ふくろ",
+          "compounds": [
+            { "kanji": "袋", "reading": "ふくろ", "meaning_mm": "အိတ်" },
+            {
+              "kanji": "紙袋",
+              "reading": "かみぶくろ",
+              "meaning_mm": "စက္ကူအိတ်"
+            },
+            {
+              "kanji": "ごみ袋",
+              "reading": "ごみぶくろ",
+              "meaning_mm": "အမှိုက်အိတ်"
+            },
+            { "kanji": "手袋", "reading": "てぶくろ", "meaning_mm": "လက်အိတ်" }
+          ]
+        },
+        {
+          "id": 331,
+          "kanji": "混",
+          "meaning_en": "Mix",
+          "meaning_mm": "ရောနှောခြင်း",
+          "onyomi": "コン",
+          "kunyomi": "ま-ぜる",
+          "compounds": [
+            {
+              "kanji": "混雑",
+              "reading": "こんざつ",
+              "meaning_mm": "လူရှုပ်ထွေးခြင်း"
+            },
+            {
+              "kanji": "混ぜる",
+              "reading": "まぜる",
+              "meaning_mm": "ရောမွှေသည်"
+            }
+          ]
+        },
+        {
+          "id": 332,
+          "kanji": "焼",
+          "meaning_en": "Roast/Bake",
+          "meaning_mm": "ဖုတ်သည်/ကင်သည်",
+          "onyomi": "-",
+          "kunyomi": "や-く/や-ける",
+          "compounds": [
+            { "kanji": "焼く", "reading": "やく", "meaning_mm": "ကင်သည်" },
+            {
+              "kanji": "焼ける",
+              "reading": "やける",
+              "meaning_mm": "ကျက်သည်/လောင်ကျွမ်းသည်"
+            }
+          ]
+        },
+        {
+          "id": 333,
+          "kanji": "表",
+          "meaning_en": "Surface/Table",
+          "meaning_mm": "မျက်နှာပြင်/ဇယား",
+          "onyomi": "ヒョウ",
+          "kunyomi": "おもて/あらわ-す",
+          "compounds": [
+            { "kanji": "表", "reading": "ひょう", "meaning_mm": "ဇယား" },
+            {
+              "kanji": "発表",
+              "reading": "はっぴょう",
+              "meaning_mm": "ထုတ်ပြန်ခြင်း/ကြေညာခြင်း"
+            },
+            {
+              "kanji": "表面",
+              "reading": "ひょうめん",
+              "meaning_mm": "မျက်နှာပြင်"
+            },
+            {
+              "kanji": "代表",
+              "reading": "だいひょう",
+              "meaning_mm": "ကိုယ်စားလှယ်"
+            }
+          ]
+        },
+        {
+          "id": 334,
+          "kanji": "裏",
+          "meaning_en": "Reverse side",
+          "meaning_mm": "အနောက်ဘက်/ကျောဘက်",
+          "onyomi": "-",
+          "kunyomi": "うら",
+          "compounds": [
+            { "kanji": "裏", "reading": "うら", "meaning_mm": "အနောက်ဘက်" },
+            {
+              "kanji": "裏返す",
+              "reading": "うらがえす",
+              "meaning_mm": "တခြားတစ်ဖက်လှန်သည်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "コピー機・留守番電話 (Copiers/Answering Machines)",
+      "kanji_list": [
+        {
+          "id": 335,
+          "kanji": "留",
+          "meaning_en": "Stay/Keep",
+          "meaning_mm": "နေထိုင်ခြင်း",
+          "onyomi": "リュウ",
+          "kunyomi": "と-まる",
+          "compounds": [
+            {
+              "kanji": "留学",
+              "reading": "りゅうがく",
+              "meaning_mm": "နိုင်ငံခြားပညာသင်"
+            },
+            {
+              "kanji": "保留",
+              "reading": "ほりゅう",
+              "meaning_mm": "ဆိုင်းငံ့ထားခြင်း"
+            },
+            {
+              "kanji": "留守番",
+              "reading": "るすばん",
+              "meaning_mm": "အိမ်စောင့်ခြင်း"
+            },
+            {
+              "kanji": "書留",
+              "reading": "かきとめ",
+              "meaning_mm": "မှတ်ပုံတင်စာ"
+            }
+          ]
+        },
+        {
+          "id": 336,
+          "kanji": "守",
+          "meaning_en": "Protect",
+          "meaning_mm": "ကာကွယ်စောင့်ရှောက်ခြင်း",
+          "onyomi": "シュ",
+          "kunyomi": "まも-る",
+          "compounds": [
+            {
+              "kanji": "守る",
+              "reading": "まもる",
+              "meaning_mm": "စောင့်ရှောက်သည်/လိုက်နာသည်"
+            },
+            { "kanji": "お守り", "reading": "おまもり", "meaning_mm": "အဆောင်" }
+          ]
+        },
+        {
+          "id": 337,
+          "kanji": "濃",
+          "meaning_en": "Concentrated/Dark",
+          "meaning_mm": "ပြင်းအားများသော/ရင့်သော",
+          "onyomi": "-",
+          "kunyomi": "こ-い",
+          "compounds": [
+            {
+              "kanji": "濃い",
+              "reading": "こい",
+              "meaning_mm": "ရင့်သော/ပြင်းသော (အရသာ)"
+            }
+          ]
+        },
+        {
+          "id": 338,
+          "kanji": "薄",
+          "meaning_en": "Thin/Weak",
+          "meaning_mm": "ပါးလွှာသော/ဖျော့သော",
+          "onyomi": "-",
+          "kunyomi": "うす-い",
+          "compounds": [
+            {
+              "kanji": "薄い",
+              "reading": "うすい",
+              "meaning_mm": "ပါးသော/ဖျော့သော"
+            }
+          ]
+        },
+        {
+          "id": 339,
+          "kanji": "部",
+          "meaning_en": "Part/Section",
+          "meaning_mm": "အပိုင်း/ဌာန",
+          "onyomi": "ブ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "部分", "reading": "ぶぶん", "meaning_mm": "အပိုင်း" },
+            { "kanji": "部長", "reading": "ぶちょう", "meaning_mm": "ဌာနမှူး" },
+            {
+              "kanji": "学部",
+              "reading": "がくぶ",
+              "meaning_mm": "တက္ကသိုလ်ဌာန"
+            }
+          ]
+        },
+        {
+          "id": 340,
+          "kanji": "数",
+          "meaning_en": "Number",
+          "meaning_mm": "အရေအတွက်",
+          "onyomi": "スウ",
+          "kunyomi": "かず/かぞ-える",
+          "compounds": [
+            {
+              "kanji": "数字",
+              "reading": "すうじ",
+              "meaning_mm": "ကိန်းဂဏန်း"
+            },
+            {
+              "kanji": "数える",
+              "reading": "かぞえる",
+              "meaning_mm": "ရေတွက်သည်"
+            },
+            { "kanji": "数学", "reading": "すうがく", "meaning_mm": "သင်္ချာ" }
+          ]
+        },
+        {
+          "id": 341,
+          "kanji": "件",
+          "meaning_en": "Matter/Case",
+          "meaning_mm": "ကိစ္စ",
+          "onyomi": "ケン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "件名",
+              "reading": "けんめい",
+              "meaning_mm": "ခေါင်းစဉ် (Subject)"
+            },
+            {
+              "kanji": "用件",
+              "reading": "ようけん",
+              "meaning_mm": "လိုအပ်ချက်/ကိစ္စ"
+            },
+            { "kanji": "事件", "reading": "じけん", "meaning_mm": "အမှုအခင်း" }
+          ]
+        },
+        {
+          "id": 342,
+          "kanji": "再",
+          "meaning_en": "Again",
+          "meaning_mm": "တစ်ဖန်/ထပ်မံ",
+          "onyomi": "サイ/サ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "再入国",
+              "reading": "さいにゅうこく",
+              "meaning_mm": "နိုင်ငံအတွင်းပြန်လည်ဝင်ရောက်ခြင်း"
+            },
+            {
+              "kanji": "再生",
+              "reading": "さいせい",
+              "meaning_mm": "ပြန်လည်ဖွင့်ခြင်း (Play)/ပြန်လည်သုံးခြင်း"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_title": "携帯電話 (Cell Phones)",
+      "kanji_list": [
+        {
+          "id": 343,
+          "kanji": "接",
+          "meaning_en": "Connect",
+          "meaning_mm": "ဆက်သွယ်ခြင်း",
+          "onyomi": "セツ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "接続",
+              "reading": "せつぞく",
+              "meaning_mm": "ချိတ်ဆက်မှု"
+            },
+            {
+              "kanji": "面接",
+              "reading": "めんせつ",
+              "meaning_mm": "အင်တာဗျူး"
+            }
+          ]
+        },
+        {
+          "id": 344,
+          "kanji": "続",
+          "meaning_en": "Continue",
+          "meaning_mm": "ဆက်လက်လုပ်ဆောင်ခြင်း",
+          "onyomi": "ゾク",
+          "kunyomi": "つづ-く/つづ-ける",
+          "compounds": [
+            {
+              "kanji": "続く",
+              "reading": "つづく",
+              "meaning_mm": "ဆက်လက်ဖြစ်ပေါ်သည်"
+            },
+            {
+              "kanji": "続ける",
+              "reading": "つづける",
+              "meaning_mm": "ဆက်လက်လုပ်ဆောင်သည်"
+            }
+          ]
+        },
+        {
+          "id": 345,
+          "kanji": "示",
+          "meaning_en": "Show/Indicate",
+          "meaning_mm": "ပြသခြင်း",
+          "onyomi": "ジ",
+          "kunyomi": "しめ-す",
+          "compounds": [
+            {
+              "kanji": "表示",
+              "reading": "ひょうじ",
+              "meaning_mm": "ပြသခြင်း (Display)"
+            },
+            {
+              "kanji": "指示",
+              "reading": "しじ",
+              "meaning_mm": "ညွှန်ကြားချက်"
+            }
+          ]
+        },
+        {
+          "id": 346,
+          "kanji": "戻",
+          "meaning_en": "Return",
+          "meaning_mm": "ပြန်လှည့်ခြင်း",
+          "onyomi": "-",
+          "kunyomi": "もど-る/もど-す",
+          "compounds": [
+            {
+              "kanji": "戻る",
+              "reading": "もどる",
+              "meaning_mm": "ပြန်သွားသည်"
+            },
+            { "kanji": "戻す", "reading": "もどす", "meaning_mm": "ပြန်ထားသည်" }
+          ]
+        },
+        {
+          "id": 347,
+          "kanji": "完",
+          "meaning_en": "Complete",
+          "meaning_mm": "ပြီးမြောက်ခြင်း",
+          "onyomi": "カン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "完了",
+              "reading": "かんりょう",
+              "meaning_mm": "ပြီးဆုံးခြင်း"
+            },
+            {
+              "kanji": "完全（な）",
+              "reading": "かんぜん（な）",
+              "meaning_mm": "ပြီးပြည့်စုံသော"
+            }
+          ]
+        },
+        {
+          "id": 348,
+          "kanji": "了",
+          "meaning_en": "End/Finish",
+          "meaning_mm": "ပြီးဆုံးခြင်း",
+          "onyomi": "リョウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "了解",
+              "reading": "りょうかい",
+              "meaning_mm": "နားလည်သဘောပေါက်ခြင်း"
+            },
+            {
+              "kanji": "終了",
+              "reading": "しゅうりょう",
+              "meaning_mm": "ပြီးဆုံးခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 349,
+          "kanji": "登",
+          "meaning_en": "Climb/Register",
+          "meaning_mm": "တက်ခြင်း/မှတ်ပုံတင်ခြင်း",
+          "onyomi": "トウ",
+          "kunyomi": "のぼ-る",
+          "compounds": [
+            {
+              "kanji": "登録",
+              "reading": "とうろく",
+              "meaning_mm": "မှတ်ပုံတင်ခြင်း"
+            },
+            {
+              "kanji": "登る",
+              "reading": "のぼる",
+              "meaning_mm": "တက်သည် (တောင်)"
+            }
+          ]
+        },
+        {
+          "id": 350,
+          "kanji": "録",
+          "meaning_en": "Record",
+          "meaning_mm": "မှတ်တမ်းတင်ခြင်း",
+          "onyomi": "ロク",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "記録", "reading": "きろく", "meaning_mm": "မှတ်တမ်း" },
+            {
+              "kanji": "録音",
+              "reading": "ろくおん",
+              "meaning_mm": "အသံသွင်းခြင်း"
+            },
+            {
+              "kanji": "録画",
+              "reading": "ろくが",
+              "meaning_mm": "ဗီဒီယိုမှတ်တမ်းတင်ခြင်း"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

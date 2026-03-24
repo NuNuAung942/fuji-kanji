@@ -1,0 +1,1013 @@
+{
+  "week": 4,
+  "week_title": "かう (Buying/Shopping)",
+  "days": [
+    {
+      "day": 1,
+      "day_title": "日用品 (Daily Necessities)",
+      "kanji_list": [
+        {
+          "id": 171,
+          "kanji": "砂",
+          "meaning_en": "Sand",
+          "meaning_mm": "သဲ",
+          "onyomi": "サ",
+          "kunyomi": "すな",
+          "compounds": [
+            { "kanji": "砂糖", "reading": "さとう", "meaning_mm": "သကြား" },
+            { "kanji": "砂", "reading": "すな", "meaning_mm": "သဲ" }
+          ]
+        },
+        {
+          "id": 172,
+          "kanji": "塩",
+          "meaning_en": "Salt",
+          "meaning_mm": "ဆား",
+          "onyomi": "エン",
+          "kunyomi": "しお",
+          "compounds": [
+            {
+              "kanji": "食塩",
+              "reading": "しょくえん",
+              "meaning_mm": "စားသုံးဆား"
+            },
+            { "kanji": "塩", "reading": "しお", "meaning_mm": "ဆား" }
+          ]
+        },
+        {
+          "id": 173,
+          "kanji": "油",
+          "meaning_en": "Oil",
+          "meaning_mm": "ဆီ",
+          "onyomi": "ユ",
+          "kunyomi": "あぶら",
+          "compounds": [
+            {
+              "kanji": "しょう油",
+              "reading": "しょうゆ",
+              "meaning_mm": "ပဲငပိအကြည်ရည် (Soy Sauce)"
+            },
+            { "kanji": "灯油", "reading": "とうゆ", "meaning_mm": "ရေနံဆီ" },
+            { "kanji": "石油", "reading": "せきゆ", "meaning_mm": "ရေနံ" },
+            { "kanji": "油", "reading": "あぶら", "meaning_mm": "ဆီ" }
+          ]
+        },
+        {
+          "id": 174,
+          "kanji": "緑",
+          "meaning_en": "Green",
+          "meaning_mm": "အစိမ်းရောင်",
+          "onyomi": "リョク",
+          "kunyomi": "みどり",
+          "compounds": [
+            {
+              "kanji": "緑茶",
+              "reading": "りょくちゃ",
+              "meaning_mm": "လက်ဖက်ရည်ကြမ်း (အစိမ်းရောင်)"
+            },
+            {
+              "kanji": "緑(色)",
+              "reading": "みどり(いろ)",
+              "meaning_mm": "အစိမ်းရောင်"
+            }
+          ]
+        },
+        {
+          "id": 175,
+          "kanji": "紅",
+          "meaning_en": "Deep Red / Crimson",
+          "meaning_mm": "အနီရောင်ရင့်ရင့်",
+          "onyomi": "コウ",
+          "kunyomi": "べに",
+          "compounds": [
+            {
+              "kanji": "紅茶",
+              "reading": "こうちゃ",
+              "meaning_mm": "လက်ဖက်ရည် (အချိုခြောက်)"
+            },
+            {
+              "kanji": "口紅",
+              "reading": "くちべに",
+              "meaning_mm": "နှုတ်ခမ်းနီ"
+            }
+          ]
+        },
+        {
+          "id": 176,
+          "kanji": "冊",
+          "meaning_en": "Counter for Books",
+          "meaning_mm": "စာအုပ်ရေတွက်ရန်ယူနစ်",
+          "onyomi": "サツ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "～冊",
+              "reading": "～さつ",
+              "meaning_mm": "...အုပ် (စာအုပ်ရေတွက်လျှင်)"
+            },
+            {
+              "kanji": "冊数",
+              "reading": "さっすう",
+              "meaning_mm": "စာအုပ်အရေအတွက်"
+            }
+          ]
+        },
+        {
+          "id": 177,
+          "kanji": "個",
+          "meaning_en": "Counter for Articles",
+          "meaning_mm": "အလုံး/အခု ရေတွက်ရန်ယူနစ်",
+          "onyomi": "コ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "～個",
+              "reading": "～こ",
+              "meaning_mm": "...ခု / ...လုံး"
+            },
+            {
+              "kanji": "個人",
+              "reading": "こじん",
+              "meaning_mm": "တစ်ဦးတစ်ယောက်ချင်းစီ"
+            },
+            { "kanji": "個数", "reading": "こすう", "meaning_mm": "အရေအတွက်" },
+            {
+              "kanji": "団体",
+              "reading": "だんたい",
+              "meaning_mm": "အဖွဲ့အစည်း"
+            }
+          ]
+        },
+        {
+          "id": 178,
+          "kanji": "枚",
+          "meaning_en": "Counter for Flat Objects",
+          "meaning_mm": "အချပ် ရေတွက်ရန်ယူနစ်",
+          "onyomi": "マイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "～枚",
+              "reading": "～まい",
+              "meaning_mm": "...ချပ် / ...ပြား"
+            },
+            {
+              "kanji": "枚数",
+              "reading": "まいすう",
+              "meaning_mm": "အချပ်အရေအတွက်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "広告メール (Advertisement E-mail)",
+      "kanji_list": [
+        {
+          "id": 179,
+          "kanji": "告",
+          "meaning_en": "Inform / Tell",
+          "meaning_mm": "အသိပေးခြင်း / ပြောကြားခြင်း",
+          "onyomi": "コク",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "広告", "reading": "こうこく", "meaning_mm": "ကြော်ငြာ" }
+          ]
+        },
+        {
+          "id": 180,
+          "kanji": "利",
+          "meaning_en": "Profit / Benefit",
+          "meaning_mm": "အကျိုးအမြတ် / အသုံးဝင်မှု",
+          "onyomi": "リ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "便利(な)",
+              "reading": "べんり(な)",
+              "meaning_mm": "အဆင်ပြေသော / အသုံးတည့်သော"
+            },
+            {
+              "kanji": "利用",
+              "reading": "りよう",
+              "meaning_mm": "အသုံးချခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 181,
+          "kanji": "割",
+          "meaning_en": "Divide / Proportion",
+          "meaning_mm": "ခွဲခြမ်းခြင်း / အချိုးအစား",
+          "onyomi": "-",
+          "kunyomi": "わる / われる",
+          "compounds": [
+            {
+              "kanji": "割る",
+              "reading": "わる",
+              "meaning_mm": "ခွဲသည် / ခွဲခြမ်းသည်"
+            },
+            { "kanji": "割れる", "reading": "われる", "meaning_mm": "ကွဲသည်" },
+            {
+              "kanji": "割合",
+              "reading": "わりあい",
+              "meaning_mm": "အချိုးအစား"
+            },
+            {
+              "kanji": "割引",
+              "reading": "わりびき",
+              "meaning_mm": "လျှော့ဈေး"
+            }
+          ]
+        },
+        {
+          "id": 182,
+          "kanji": "倍",
+          "meaning_en": "Double / Times",
+          "meaning_mm": "အဆ (အရေအတွက်)",
+          "onyomi": "バイ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "～倍", "reading": "～ばい", "meaning_mm": "...ဆ" }
+          ]
+        },
+        {
+          "id": 183,
+          "kanji": "値",
+          "meaning_en": "Value / Price",
+          "meaning_mm": "တန်ဖိုး / ဈေးနှုန်း",
+          "onyomi": "チ",
+          "kunyomi": "ね",
+          "compounds": [
+            { "kanji": "値段", "reading": "ねだん", "meaning_mm": "ဈေးနှုန်း" },
+            {
+              "kanji": "値上げ",
+              "reading": "ねあげ",
+              "meaning_mm": "ဈေးနှုန်းတိုးမြှင့်ခြင်း"
+            },
+            {
+              "kanji": "値下げ",
+              "reading": "ねさげ",
+              "meaning_mm": "ဈေးနှုန်းလျှော့ချခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 184,
+          "kanji": "商",
+          "meaning_en": "Commerce / Trade",
+          "meaning_mm": "ကုန်သွယ်မှု / စီးပွားရေး",
+          "onyomi": "ショウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "商品",
+              "reading": "しょうひん",
+              "meaning_mm": "ကုန်ပစ္စည်း"
+            },
+            { "kanji": "商店", "reading": "しょうてん", "meaning_mm": "ဆိုင်" }
+          ]
+        },
+        {
+          "id": 185,
+          "kanji": "支",
+          "meaning_en": "Support / Branch",
+          "meaning_mm": "အကိုင်းအခက် / အထောက်အပံ့",
+          "onyomi": "シ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "支店",
+              "reading": "してん",
+              "meaning_mm": "ဘဏ်ခွဲ / ဆိုင်ခွဲ"
+            },
+            {
+              "kanji": "支社",
+              "reading": "ししゃ",
+              "meaning_mm": "ကုမ္ပဏီခွဲ"
+            },
+            {
+              "kanji": "本店",
+              "reading": "ほんてん",
+              "meaning_mm": "ပင်မဆိုင်"
+            }
+          ]
+        },
+        {
+          "id": 186,
+          "kanji": "払",
+          "meaning_en": "Pay",
+          "meaning_mm": "ပေးချေသည်",
+          "onyomi": "-",
+          "kunyomi": "はらう",
+          "compounds": [
+            { "kanji": "払う", "reading": "はらう", "meaning_mm": "ပေးချေသည်" },
+            {
+              "kanji": "支払い",
+              "reading": "しはらい",
+              "meaning_mm": "ပေးချေမှု"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "通信販売 (Mail-Order Sales)",
+      "kanji_list": [
+        {
+          "id": 187,
+          "kanji": "米",
+          "meaning_en": "Rice / America",
+          "meaning_mm": "ဆန် / အမေရိက",
+          "onyomi": "ベイ",
+          "kunyomi": "こめ",
+          "compounds": [
+            {
+              "kanji": "米国",
+              "reading": "べいこく",
+              "meaning_mm": "အမေရိကန်ပြည်ထောင်စု"
+            },
+            { "kanji": "米", "reading": "こめ", "meaning_mm": "ဆန်" }
+          ]
+        },
+        {
+          "id": 188,
+          "kanji": "級",
+          "meaning_en": "Class / Grade",
+          "meaning_mm": "အဆင့် / အတန်း",
+          "onyomi": "キュウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "高級",
+              "reading": "こうきゅう",
+              "meaning_mm": "အဆင့်မြင့်"
+            },
+            {
+              "kanji": "上級",
+              "reading": "じょうきゅう",
+              "meaning_mm": "အဆင့်မြင့်တန်း"
+            },
+            {
+              "kanji": "中級",
+              "reading": "ちゅうきゅう",
+              "meaning_mm": "အလယ်အလတ်တန်း"
+            }
+          ]
+        },
+        {
+          "id": 189,
+          "kanji": "残",
+          "meaning_en": "Remainder / Leftover",
+          "meaning_mm": "ကျန်ရှိသော",
+          "onyomi": "ザン",
+          "kunyomi": "のこる",
+          "compounds": [
+            {
+              "kanji": "残業",
+              "reading": "ざんぎょう",
+              "meaning_mm": "အချိန်ပိုအလုပ်"
+            },
+            {
+              "kanji": "残る",
+              "reading": "のこる",
+              "meaning_mm": "ကျန်ရှိသည်"
+            },
+            {
+              "kanji": "残り",
+              "reading": "のこり",
+              "meaning_mm": "ကျန်ရှိသောအရာ"
+            }
+          ]
+        },
+        {
+          "id": 190,
+          "kanji": "型",
+          "meaning_en": "Model / Type",
+          "meaning_mm": "ပုံစံ / မော်ဒယ်",
+          "onyomi": "-",
+          "kunyomi": "かた",
+          "compounds": [
+            {
+              "kanji": "大型",
+              "reading": "おおがた",
+              "meaning_mm": "ဆိုဒ်ကြီး"
+            },
+            { "kanji": "小型", "reading": "こがた", "meaning_mm": "ဆိုဒ်သေး" },
+            {
+              "kanji": "新型",
+              "reading": "しんがた",
+              "meaning_mm": "မော်ဒယ်သစ်"
+            }
+          ]
+        },
+        {
+          "id": 191,
+          "kanji": "税",
+          "meaning_en": "Tax",
+          "meaning_mm": "အခွန်",
+          "onyomi": "ゼイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "消費税",
+              "reading": "しょうひぜい",
+              "meaning_mm": "သုံးစွဲမှုအခွန်"
+            },
+            { "kanji": "税金", "reading": "ぜいきん", "meaning_mm": "အခွန်ငွေ" }
+          ]
+        },
+        {
+          "id": 192,
+          "kanji": "込",
+          "meaning_en": "Include / Crowded",
+          "meaning_mm": "ပါဝင်သည် / ပြည့်ကျပ်သည်",
+          "onyomi": "-",
+          "kunyomi": "こむ",
+          "compounds": [
+            {
+              "kanji": "込む",
+              "reading": "こむ",
+              "meaning_mm": "ပြည့်ကျပ်သည် / လူစည်ကားသည်"
+            },
+            {
+              "kanji": "税込",
+              "reading": "ぜいこみ",
+              "meaning_mm": "အခွန်အပါအဝင်"
+            },
+            {
+              "kanji": "振り込む",
+              "reading": "ふりこむ",
+              "meaning_mm": "ဘဏ်မှငွေလွှဲပေးချေသည်"
+            }
+          ]
+        },
+        {
+          "id": 193,
+          "kanji": "価",
+          "meaning_en": "Value / Price",
+          "meaning_mm": "တန်ဖိုး / ဈေးနှုန်း",
+          "onyomi": "カ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "価格", "reading": "かかく", "meaning_mm": "ဈေးနှုန်း" },
+            {
+              "kanji": "定価",
+              "reading": "ていか",
+              "meaning_mm": "သတ်မှတ်ဈေးနှုန်း"
+            }
+          ]
+        },
+        {
+          "id": 194,
+          "kanji": "格",
+          "meaning_en": "Status / Standard",
+          "meaning_mm": "အဆင့်အတန်း / စံနှုန်း",
+          "onyomi": "カク",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "合格",
+              "reading": "ごうかく",
+              "meaning_mm": "စာမေးပွဲအောင်ခြင်း"
+            },
+            {
+              "kanji": "格安",
+              "reading": "かくやす",
+              "meaning_mm": "ဈေးနှုန်းအထူးချိုသာသော"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "申込書 (Application Forms)",
+      "kanji_list": [
+        {
+          "id": 195,
+          "kanji": "申",
+          "meaning_en": "Report / Say",
+          "meaning_mm": "လျှောက်ထားသည် / ပြောကြားသည်",
+          "onyomi": "シン",
+          "kunyomi": "もうす",
+          "compounds": [
+            {
+              "kanji": "申し込む",
+              "reading": "もうしこむ",
+              "meaning_mm": "လျှောက်ထားသည်"
+            },
+            {
+              "kanji": "申込書",
+              "reading": "もうしこみしょ",
+              "meaning_mm": "လျှောက်လွှာ"
+            },
+            {
+              "kanji": "申請",
+              "reading": "しんせい",
+              "meaning_mm": "လျှောက်ထားခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 196,
+          "kanji": "記",
+          "meaning_en": "Write down / Record",
+          "meaning_mm": "ရေးမှတ်သည် / မှတ်တမ်း",
+          "onyomi": "キ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "記入",
+              "reading": "きにゅう",
+              "meaning_mm": "ဖြည့်စွက်ရေးသားခြင်း"
+            },
+            {
+              "kanji": "日記",
+              "reading": "にっき",
+              "meaning_mm": "နေ့စဉ်မှတ်တမ်း"
+            },
+            { "kanji": "記事", "reading": "きじ", "meaning_mm": "ဆောင်းပါး" }
+          ]
+        },
+        {
+          "id": 197,
+          "kanji": "例",
+          "meaning_en": "Example",
+          "meaning_mm": "ဥပမာ",
+          "onyomi": "レイ",
+          "kunyomi": "たとえる",
+          "compounds": [
+            { "kanji": "例", "reading": "れい", "meaning_mm": "ဥပမာ" },
+            {
+              "kanji": "例えば",
+              "reading": "たとえば",
+              "meaning_mm": "ဥပမာအားဖြင့်"
+            }
+          ]
+        },
+        {
+          "id": 198,
+          "kanji": "齢",
+          "meaning_en": "Age",
+          "meaning_mm": "အသက်",
+          "onyomi": "レイ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "年齢", "reading": "ねんれい", "meaning_mm": "အသက်" },
+            {
+              "kanji": "高齢",
+              "reading": "こうれい",
+              "meaning_mm": "အသက်အရွယ်ကြီးရင့်သော"
+            }
+          ]
+        },
+        {
+          "id": 199,
+          "kanji": "歳",
+          "meaning_en": "Year-old",
+          "meaning_mm": "အသက် (...နှစ်)",
+          "onyomi": "サイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "～歳",
+              "reading": "～さい",
+              "meaning_mm": "...နှစ် (အသက်)"
+            },
+            {
+              "kanji": "二十歳",
+              "reading": "はたち/にじゅっさい",
+              "meaning_mm": "အသက် ၂၀"
+            }
+          ]
+        },
+        {
+          "id": 200,
+          "kanji": "性",
+          "meaning_en": "Gender / Nature",
+          "meaning_mm": "လိင် / သဘာဝဗီဇ",
+          "onyomi": "セイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "性別",
+              "reading": "せいべつ",
+              "meaning_mm": "လိင်ခွဲခြားမှု"
+            },
+            {
+              "kanji": "性格",
+              "reading": "せいかく",
+              "meaning_mm": "စိတ်နေစိတ်ထား"
+            },
+            {
+              "kanji": "女性",
+              "reading": "じょせい",
+              "meaning_mm": "အမျိုးသမီး"
+            },
+            {
+              "kanji": "男性",
+              "reading": "だんせい",
+              "meaning_mm": "အမျိုးသား"
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "kanji": "連",
+          "meaning_en": "Lead / Connect",
+          "meaning_mm": "ဆက်သွယ်သည် / ခေါ်ဆောင်သည်",
+          "onyomi": "レン",
+          "kunyomi": "つれる",
+          "compounds": [
+            {
+              "kanji": "連休",
+              "reading": "れんきゅう",
+              "meaning_mm": "ဆက်တိုက်ရုံးပိတ်ရက်"
+            },
+            {
+              "kanji": "連れて行く",
+              "reading": "つれていく",
+              "meaning_mm": "ခေါ်သွားသည်"
+            },
+            {
+              "kanji": "連れて来る",
+              "reading": "つれてくる",
+              "meaning_mm": "ခေါ်လာသည်"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "kanji": "絡",
+          "meaning_en": "Entwine / Connect",
+          "meaning_mm": "ဆက်သွယ်သည်",
+          "onyomi": "ラク",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "連絡",
+              "reading": "れんらく",
+              "meaning_mm": "ဆက်သွယ်ခြင်း"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "注文 (Ordering)",
+      "kanji_list": [
+        {
+          "id": 203,
+          "kanji": "届",
+          "meaning_en": "Deliver / Reach",
+          "meaning_mm": "ပို့ဆောင်သည် / ရောက်ရှိသည်",
+          "onyomi": "-",
+          "kunyomi": "とどける / とどく",
+          "compounds": [
+            {
+              "kanji": "届ける",
+              "reading": "とどける",
+              "meaning_mm": "ပို့ဆောင်ပေးသည်"
+            },
+            {
+              "kanji": "届く",
+              "reading": "とどく",
+              "meaning_mm": "ရောက်ရှိသည်"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "kanji": "宅",
+          "meaning_en": "Home / House",
+          "meaning_mm": "အိမ်",
+          "onyomi": "タク",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "自宅",
+              "reading": "じたく",
+              "meaning_mm": "ကိုယ်ပိုင်အိမ်"
+            },
+            {
+              "kanji": "お宅",
+              "reading": "おたく",
+              "meaning_mm": "တစ်ဖက်လူ၏အိမ် (ယဉ်ကျေး)"
+            },
+            {
+              "kanji": "宅配",
+              "reading": "たくはい",
+              "meaning_mm": "အိမ်တိုင်ရာရောက်ပို့ဆောင်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "kanji": "配",
+          "meaning_en": "Distribute / Deliver",
+          "meaning_mm": "ဝေငှသည် / ပို့ဆောင်သည်",
+          "onyomi": "ハイ",
+          "kunyomi": "くばる",
+          "compounds": [
+            {
+              "kanji": "配達",
+              "reading": "はいたつ",
+              "meaning_mm": "ပို့ဆောင်ခြင်း"
+            },
+            {
+              "kanji": "配送料",
+              "reading": "はいそうりょう",
+              "meaning_mm": "ပို့ဆောင်ခ"
+            },
+            {
+              "kanji": "心配",
+              "reading": "しんぱい",
+              "meaning_mm": "စိတ်ပူခြင်း"
+            },
+            { "kanji": "配る", "reading": "くばる", "meaning_mm": "ဝေငှသည်" }
+          ]
+        },
+        {
+          "id": 206,
+          "kanji": "希",
+          "meaning_en": "Hope",
+          "meaning_mm": "မျှော်လင့်ချက်",
+          "onyomi": "キ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "希望",
+              "reading": "きぼう",
+              "meaning_mm": "မျှော်လင့်ချက်"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "kanji": "望",
+          "meaning_en": "Hope / Desire",
+          "meaning_mm": "မျှော်လင့်သည် / ဆန္ဒရှိသည်",
+          "onyomi": "ボウ",
+          "kunyomi": "のぞむ",
+          "compounds": [
+            {
+              "kanji": "失望",
+              "reading": "しつぼう",
+              "meaning_mm": "မျှော်လင့်ချက်ပျက်သုဉ်းခြင်း"
+            },
+            {
+              "kanji": "望む",
+              "reading": "のぞむ",
+              "meaning_mm": "မျှော်လင့်သည် / အလိုရှိသည်"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "kanji": "荷",
+          "meaning_en": "Luggage / Cargo",
+          "meaning_mm": "အထုတ်အပိုး / ဝန်စည်စလယ်",
+          "onyomi": "カ",
+          "kunyomi": "に",
+          "compounds": [
+            {
+              "kanji": "入荷",
+              "reading": "にゅうか",
+              "meaning_mm": "ပစ္စည်းဝင်ခြင်း"
+            },
+            {
+              "kanji": "出荷",
+              "reading": "しゅっか",
+              "meaning_mm": "ပစ္စည်းထုတ်ခြင်း"
+            },
+            {
+              "kanji": "荷物",
+              "reading": "にもつ",
+              "meaning_mm": "အထုတ်အပိုး"
+            },
+            {
+              "kanji": "手荷物",
+              "reading": "てにもつ",
+              "meaning_mm": "လက်ဆွဲအိတ်/ပစ္စည်း"
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "kanji": "換",
+          "meaning_en": "Exchange",
+          "meaning_mm": "လဲလှယ်သည်",
+          "onyomi": "カン",
+          "kunyomi": "かえる",
+          "compounds": [
+            {
+              "kanji": "交換",
+              "reading": "こうかん",
+              "meaning_mm": "လဲလှယ်ခြင်း"
+            },
+            {
+              "kanji": "乗り換え",
+              "reading": "のりかえ",
+              "meaning_mm": "ယာဉ်ပြောင်းစီးခြင်း"
+            },
+            {
+              "kanji": "代引き",
+              "reading": "だいびき",
+              "meaning_mm": "ပစ္စည်းရောက်မှငွေချေခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "kanji": "額",
+          "meaning_en": "Amount / Forehead",
+          "meaning_mm": "ပမာဏ / နဖူး",
+          "onyomi": "ガク",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "金額", "reading": "きんがく", "meaning_mm": "ငွေပမာဏ" },
+            { "kanji": "半額", "reading": "はんがく", "meaning_mm": "ဈေးဝက်" }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_title": "不在通知 (Notice of Non-Delivery)",
+      "kanji_list": [
+        {
+          "id": 211,
+          "kanji": "在",
+          "meaning_en": "Exist / Reside",
+          "meaning_mm": "ရှိနေသည်",
+          "onyomi": "ザイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "不在",
+              "reading": "ふざい",
+              "meaning_mm": "အိမ်မှာမရှိခြင်း"
+            },
+            {
+              "kanji": "現在",
+              "reading": "げんざい",
+              "meaning_mm": "လက်ရှိအချိန်"
+            }
+          ]
+        },
+        {
+          "id": 212,
+          "kanji": "取",
+          "meaning_en": "Take / Fetch",
+          "meaning_mm": "ယူသည်",
+          "onyomi": "-",
+          "kunyomi": "とる",
+          "compounds": [
+            { "kanji": "取る", "reading": "とる", "meaning_mm": "ယူသည်" },
+            {
+              "kanji": "受け取る",
+              "reading": "うけとる",
+              "meaning_mm": "လက်ခံရယူသည်"
+            },
+            {
+              "kanji": "受取人",
+              "reading": "うけとりにん",
+              "meaning_mm": "လက်ခံသူ"
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "kanji": "預",
+          "meaning_en": "Deposit / Entrust",
+          "meaning_mm": "အပ်နှံသည်",
+          "onyomi": "ヨ",
+          "kunyomi": "あずける",
+          "compounds": [
+            { "kanji": "預金", "reading": "よきん", "meaning_mm": "ဘဏ်အပ်ငွေ" },
+            {
+              "kanji": "預ける",
+              "reading": "あずける",
+              "meaning_mm": "အပ်နှံသည်"
+            }
+          ]
+        },
+        {
+          "id": 214,
+          "kanji": "衣",
+          "meaning_en": "Clothes / Garment",
+          "meaning_mm": "အဝတ်အစား",
+          "onyomi": "イ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "衣類",
+              "reading": "いるい",
+              "meaning_mm": "အဝတ်အထည်များ"
+            },
+            { "kanji": "衣服", "reading": "いふく", "meaning_mm": "အဝတ်အစား" }
+          ]
+        },
+        {
+          "id": 215,
+          "kanji": "参",
+          "meaning_en": "Participate / Visit",
+          "meaning_mm": "ပါဝင်သည် / သွားသည်(နှိမ့်ချ)",
+          "onyomi": "サン",
+          "kunyomi": "まいる",
+          "compounds": [
+            {
+              "kanji": "参加",
+              "reading": "さんか",
+              "meaning_mm": "ပါဝင်ဆင်နွှဲခြင်း"
+            },
+            {
+              "kanji": "参る",
+              "reading": "まいる",
+              "meaning_mm": "သွားသည်/လာသည် (Humble form)"
+            },
+            {
+              "kanji": "参考書",
+              "reading": "さんこうしょ",
+              "meaning_mm": "ကိုးကားစာအုပ်"
+            }
+          ]
+        },
+        {
+          "id": 216,
+          "kanji": "達",
+          "meaning_en": "Reach / Arrive",
+          "meaning_mm": "ရောက်ရှိသည် / ကျွမ်းကျင်သည်",
+          "onyomi": "タツ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "上達",
+              "reading": "じょうたつ",
+              "meaning_mm": "တိုးတက်ကျွမ်းကျင်လာခြင်း"
+            },
+            {
+              "kanji": "友達",
+              "reading": "ともだち",
+              "meaning_mm": "သူငယ်ချင်း"
+            },
+            {
+              "kanji": "速達",
+              "reading": "そくたつ",
+              "meaning_mm": "အမြန်ချောပို့"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "kanji": "勤",
+          "meaning_en": "Work / Diligence",
+          "meaning_mm": "အလုပ်လုပ်ကိုင်သည်",
+          "onyomi": "キン",
+          "kunyomi": "つとめる",
+          "compounds": [
+            {
+              "kanji": "通勤",
+              "reading": "つうきん",
+              "meaning_mm": "အလုပ်တက်/ဆင်းခြင်း"
+            },
+            {
+              "kanji": "勤める",
+              "reading": "つとめる",
+              "meaning_mm": "အလုပ်လုပ်ကိုင်သည်"
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "kanji": "帯",
+          "meaning_en": "Belt / Zone",
+          "meaning_mm": "ခါးပတ် / နယ်မြေ / သယ်ဆောင်သည်",
+          "onyomi": "タイ",
+          "kunyomi": "おび",
+          "compounds": [
+            {
+              "kanji": "携帯(電話)",
+              "reading": "けいたい(でんわ)",
+              "meaning_mm": "လက်ကိုင်ဖုန်း"
+            },
+            {
+              "kanji": "帯",
+              "reading": "おび",
+              "meaning_mm": "ခါးစည်းကြိုး (Kimono အတွက်)"
+            },
+            {
+              "kanji": "時間帯",
+              "reading": "じかんたい",
+              "meaning_mm": "အချိန်အပိုင်းအခြား"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
