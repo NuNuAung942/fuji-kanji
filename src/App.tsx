@@ -61,29 +61,17 @@ function App() {
 
   const handleSpeak = (text: string) => {
     const synth = window.speechSynthesis;
+    synth.resume();
+    synth.cancel();
 
-    const speakNow = () => {
-      const voices = synth.getVoices();
+    const msg = new SpeechSynthesisUtterance(text);
+    msg.lang = "ja-JP";
+    msg.rate = 0.7;
+    const voices = synth.getVoices();
+    const jpVoice = voices.find((v) => v.lang.startsWith("ja"));
+    if (jpVoice) msg.voice = jpVoice;
 
-      const msg = new SpeechSynthesisUtterance(text);
-      msg.lang = "ja-JP";
-      msg.rate = 0.7;
-
-      const jpVoice = voices.find((v) => v.lang.startsWith("ja"));
-
-      if (jpVoice) {
-        msg.voice = jpVoice;
-      }
-
-      synth.cancel();
-      synth.speak(msg);
-    };
-    if (synth.getVoices().length === 0) {
-      synth.onvoiceschanged = speakNow;
-    } else {
-      speakNow();
-    }
-    alert("Speak " + text);
+    synth.speak(msg);
   };
 
   //quiz
