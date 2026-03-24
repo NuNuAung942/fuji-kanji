@@ -83,6 +83,7 @@ function App() {
     } else {
       speakNow();
     }
+    alert("Speak " + text);
   };
 
   //quiz
