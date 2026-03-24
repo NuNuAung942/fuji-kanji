@@ -129,6 +129,7 @@ const KanjiCard: React.FC<KanjiCardProps> = ({
             <button
               onClick={(e) => {
                 e.stopPropagation();
+                alert(`Speaking: ${data.kanji}`);
                 onSpeak(data.kanji);
               }}
               className={`flex items-center gap-2 px-5 py-2 rounded-full border transition-colors ${
