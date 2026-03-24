@@ -11,7 +11,7 @@ import {
 import KanjiCard from "./components/features/KanjiCard";
 import WeekMenu from "./components/features/WeekMenu";
 import DayMenu from "./components/features/DayMenu";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ThemeSwitcher from "./components/ui/ThemeSwitcher";
 import QuizView from "./components/features/QuizView";
 import { ArrowLeft, ArrowRight } from "lucide-react";
@@ -83,6 +83,17 @@ function App() {
 
     return limitedQuiz;
   };
+
+  useEffect(() => {
+    const prepareVoices = () => {
+      window.speechSynthesis.getVoices();
+    };
+
+    prepareVoices();
+    if (window.speechSynthesis.onvoiceschanged !== undefined) {
+      window.speechSynthesis.onvoiceschanged = prepareVoices;
+    }
+  }, []);
 
   return (
     <div
