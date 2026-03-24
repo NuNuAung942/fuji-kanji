@@ -35,6 +35,21 @@ const KanjiCard: React.FC<KanjiCardProps> = ({
 }) => {
   const writerRef = useRef<any>(null);
 
+  const handleSpeak = (text: string) => {
+    const synth = window.speechSynthesis;
+    synth.resume();
+    synth.cancel();
+
+    const msg = new SpeechSynthesisUtterance(text);
+    msg.lang = "ja-JP";
+    msg.rate = 0.7;
+    const voices = synth.getVoices();
+    const jpVoice = voices.find((v) => v.lang.startsWith("ja"));
+    if (jpVoice) msg.voice = jpVoice;
+
+    synth.speak(msg);
+  };
+
   const styles = useMemo(() => {
     switch (theme) {
       case "sakura":
@@ -129,8 +144,7 @@ const KanjiCard: React.FC<KanjiCardProps> = ({
             <button
               onClick={(e) => {
                 e.stopPropagation();
-                alert(`Speaking: ${data.kanji}`);
-                onSpeak(data.kanji);
+                handleSpeak(data.kanji);
               }}
               className={`flex items-center gap-2 px-5 py-2 rounded-full border transition-colors ${
                 theme === "sakura"
