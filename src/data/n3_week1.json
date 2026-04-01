@@ -53,7 +53,7 @@
           "meaning_en": "Full",
           "meaning_mm": "ပြည့်နှက်ခြင်း",
           "onyomi": "マン",
-          "kunyomi": "み（ちる）",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "満車",
@@ -260,7 +260,7 @@
           "id": 205,
           "kanji": "号",
           "meaning_en": "Number",
-          "meaning_mm": "နံပါတ် / အမည်",
+          "meaning_mm": "နံပါတ်",
           "onyomi": "ゴウ",
           "kunyomi": "-",
           "compounds": [
@@ -341,8 +341,8 @@
         {
           "id": 301,
           "kanji": "非",
-          "meaning_en": "Non- / Negative",
-          "meaning_mm": "မဟုတ်သော / အရေးပေါ်",
+          "meaning_en": "Negative",
+          "meaning_mm": "အရေးပေါ်",
           "onyomi": "ヒ",
           "kunyomi": "-",
           "compounds": [
@@ -364,7 +364,7 @@
           "meaning_en": "Normal / Always",
           "meaning_mm": "ပုံမှန် / အမြဲတမ်း",
           "onyomi": "ジョウ",
-          "kunyomi": "つね",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "日常",
@@ -407,7 +407,7 @@
           "kanji": "箱",
           "meaning_en": "Box",
           "meaning_mm": "သေတ္တာ / ဗူး / ပုံး",
-          "onyomi": "ソウ",
+          "onyomi": "-",
           "kunyomi": "はこ",
           "compounds": [
             {
@@ -448,7 +448,7 @@
           "meaning_en": "Steep / Sharp",
           "meaning_mm": "စောက်သော / ပြင်းထန်သော",
           "onyomi": "ケン",
-          "kunyomi": "けわ（しい）",
+          "kunyomi": "-",
           "compounds": [
             { "kanji": "保険", "reading": "ほけん", "meaning_mm": "အာမခံ" },
             {
@@ -463,7 +463,7 @@
           "kanji": "捨",
           "meaning_en": "Throw away",
           "meaning_mm": "စွန့်ပစ်ခြင်း",
-          "onyomi": "シャ",
+          "onyomi": "-",
           "kunyomi": "す（てる）",
           "compounds": [
             {
@@ -541,7 +541,7 @@
           "meaning_en": "Each",
           "meaning_mm": "အသီးသီး / တိုင်း",
           "onyomi": "カク",
-          "kunyomi": "おのおの",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "各駅",
@@ -666,7 +666,7 @@
           "meaning_en": "Finger / Point",
           "meaning_mm": "လက်ချောင်း / ညွှန်ပြခြင်း",
           "onyomi": "シ",
-          "kunyomi": "ゆび / さ（す）",
+          "kunyomi": "ゆび",
           "compounds": [
             {
               "kanji": "指定",
@@ -687,7 +687,7 @@
           "meaning_en": "Fix / Decide",
           "meaning_mm": "သတ်မှတ်ခြင်း / အတည်ပြုခြင်း",
           "onyomi": "テイ",
-          "kunyomi": "さだ（める）",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "定休日",
@@ -731,8 +731,8 @@
           "kanji": "由",
           "meaning_en": "Reason / Origin",
           "meaning_mm": "အကြောင်းပြချက် / အရင်းအမြစ်",
-          "onyomi": "ユ / ユウ",
-          "kunyomi": "よし",
+          "onyomi": "ユウ",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "自由",
@@ -772,7 +772,7 @@
           "kanji": "窓",
           "meaning_en": "Window",
           "meaning_mm": "ပြတင်းပေါက်",
-          "onyomi": "ソウ",
+          "onyomi": "-",
           "kunyomi": "まど",
           "compounds": [
             { "kanji": "窓", "reading": "まど", "meaning_mm": "ပြတင်းပေါက်" },
@@ -788,7 +788,7 @@
           "kanji": "側",
           "meaning_en": "Side",
           "meaning_mm": "ဘေးဘက် / အနား",
-          "onyomi": "ソク",
+          "onyomi": "-",
           "kunyomi": "かわ",
           "compounds": [
             {
@@ -810,7 +810,7 @@
           "meaning_en": "Road / Path",
           "meaning_mm": "လမ်း / လမ်းကြောင်း",
           "onyomi": "ロ",
-          "kunyomi": "じ",
+          "kunyomi": "-",
           "compounds": [
             { "kanji": "道路", "reading": "どうろ", "meaning_mm": "လမ်းမကြီး" },
             {
@@ -857,7 +857,7 @@
           "meaning_en": "Organize / Arrange",
           "meaning_mm": "စီစဉ်ခြင်း / ပြင်ဆင်ခြင်း",
           "onyomi": "セイ",
-          "kunyomi": "ととの（える）",
+          "kunyomi": "-",
           "compounds": [
             {
               "kanji": "整理",
@@ -899,8 +899,8 @@
         {
           "id": 604,
           "kanji": "現",
-          "meaning_en": "Actual / Appear",
-          "meaning_mm": "လက်ရှိ / ပေါ်ပေါက်လာခြင်း",
+          "meaning_en": "Appear",
+          "meaning_mm": "ပေါ်ပေါက်လာခြင်း",
           "onyomi": "ゲン",
           "kunyomi": "あらわ（れる）",
           "compounds": [
@@ -924,8 +924,8 @@
         {
           "id": 305,
           "kanji": "両",
-          "meaning_en": "Both / Car unit",
-          "meaning_mm": "နှစ်ဖက်လုံး / တွဲ (ရထား)",
+          "meaning_en": "Both",
+          "meaning_mm": "နှစ်ဖက်လုံး",
           "onyomi": "リョウ",
           "kunyomi": "-",
           "compounds": [
@@ -947,7 +947,7 @@
           "kanji": "替",
           "meaning_en": "Exchange / Replace",
           "meaning_mm": "လဲလှယ်ခြင်း",
-          "onyomi": "タイ",
+          "onyomi": "-",
           "kunyomi": "か（える）",
           "compounds": [
             {

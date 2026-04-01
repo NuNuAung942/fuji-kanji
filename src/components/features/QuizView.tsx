@@ -5,13 +5,15 @@ import Button from "../ui/Button";
 const getQuizOptions = (kanjiList: Kanji[], currentIndex: number) => {
   const currentKanji = kanjiList[currentIndex];
   if (!currentKanji) return [];
-  const correct = `${currentKanji.meaning_mm} (${currentKanji.onyomi})`;
+  const correct = `${currentKanji.meaning_mm} (${currentKanji.kunyomi !== "-" ? currentKanji.kunyomi : currentKanji.onyomi})`;
 
   const others = [...kanjiList]
     .filter((k) => k.kanji !== currentKanji.kanji)
     .sort(() => Math.random() - 0.5)
     .slice(0, 3)
-    .map((k) => `${k.meaning_mm} (${k.onyomi})`);
+    .map(
+      (k) => `${k.meaning_mm} (${k.kunyomi !== "-" ? k.kunyomi : k.onyomi})`,
+    );
   return [correct, ...others].sort(() => Math.random() - 0.5);
 };
 
@@ -33,7 +35,7 @@ const QuizView: React.FC<QuizViewProps> = ({
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [, setIsCorrect] = useState<boolean | null>(null);
   const [showResult, setShowResult] = useState(false);
-  const correctMeaning = `${kanjiList[currentIndex]?.meaning_mm} (${kanjiList[currentIndex]?.onyomi})`;
+  const correctMeaning = `${kanjiList[currentIndex]?.meaning_mm} (${kanjiList[currentIndex]?.kunyomi !== "-" ? kanjiList[currentIndex]?.kunyomi : kanjiList[currentIndex]?.onyomi})`;
   const options = useMemo(
     () => getQuizOptions(kanjiList, currentIndex),
     [currentIndex, kanjiList],
