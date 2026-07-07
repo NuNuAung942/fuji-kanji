@@ -17,7 +17,7 @@ const ThemeSwitcher: React.FC<ThemeSwitcherProps> = ({
 }) => {
   return (
     <div
-      className={`flex p-1 gap-1 rounded-full border border-white/10 shadow-xl mb-6 backdrop-blur-md ${
+      className={`flex p-1 gap-1 rounded-full border border-white/10 shadow-xl mb-2 backdrop-blur-md ${
         currentTheme === "sakura"
           ? "border-rose-200 bg-[radial-gradient(#eb22b1,_transparent)]"
           : currentTheme === "fuji"

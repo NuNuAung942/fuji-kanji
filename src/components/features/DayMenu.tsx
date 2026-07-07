@@ -1,4 +1,6 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
+import { useAppSelector } from "../../app/hooks";
 
 interface DayMenuProps {
   selectedDay: number;
@@ -14,6 +16,8 @@ const DayMenu: React.FC<DayMenuProps> = ({
   onStartQuiz,
 }) => {
   const days = [1, 2, 3, 4, 5, 6];
+  const navigate = useNavigate();
+  const { selectedWeek, currentLevel } = useAppSelector((state) => state.kanji);
 
   const getContainerClass = () => {
     switch (theme) {
@@ -24,6 +28,16 @@ const DayMenu: React.FC<DayMenuProps> = ({
       default:
         return "bg-slate-800/500 border-slate-700";
     }
+  };
+
+  const handleQuizClick = () => {
+    onStartQuiz();
+    navigate(`/n${currentLevel || 3}/week=${selectedWeek}/quiz`, {
+      state: {
+        level: currentLevel || 3,
+        week: selectedWeek,
+      },
+    });
   };
 
   return (
@@ -58,7 +72,7 @@ const DayMenu: React.FC<DayMenuProps> = ({
           );
         })}
         <button
-          onClick={onStartQuiz}
+          onClick={handleQuizClick}
           className={`w-10 h-10 rounded-xl transition-all flex-shrink-0 flex items-center justify-center shadow-lg active:scale-90 ${
             theme === "sakura"
               ? "bg-[#eb22b1] text-white hover:bg-[#eb22b1]"

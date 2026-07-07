@@ -1,6 +1,8 @@
-import React, { useState, useMemo } from "react";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import React, { useState, useMemo, useEffect } from "react";
 import type { Kanji } from "../../features/kanji/kanjiSlice";
 import Button from "../ui/Button";
+import { useLocation } from "react-router-dom";
 
 const getQuizOptions = (kanjiList: Kanji[], currentIndex: number) => {
   const currentKanji = kanjiList[currentIndex];
@@ -24,18 +26,39 @@ interface QuizViewProps {
   onClose: () => void;
 }
 
-const QuizView: React.FC<QuizViewProps> = ({
-  kanjiList,
-  theme,
-  onClose,
-  week,
-}) => {
+const QuizView: React.FC<QuizViewProps> = ({ theme, onClose }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const location = useLocation();
+  const { level, week } = location.state || { level: 3, week: 1 };
+  const [kanjiList, setKanjiList] = useState<Kanji[]>([]);
+  const [, setLoading] = useState(true);
+
   const [score, setScore] = useState(0);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [, setIsCorrect] = useState<boolean | null>(null);
   const [showResult, setShowResult] = useState(false);
+
+  useEffect(() => {
+    const loadQuizData = async () => {
+      try {
+        const data = await import(`../../data/n${level}_week${week}.json`);
+        const allKanji =
+          data.default?.days.flatMap((d: any) => d.kanji_list) || [];
+
+        const shuffled = [...allKanji]
+          .sort(() => Math.random() - 0.5)
+          .slice(0, 20);
+        setKanjiList(shuffled);
+        setLoading(false);
+      } catch (error) {
+        console.error("Failed to load quiz data", error);
+        setLoading(false);
+      }
+    };
+    loadQuizData();
+  }, [level, week]);
   const correctMeaning = `${kanjiList[currentIndex]?.meaning_mm} (${kanjiList[currentIndex]?.kunyomi !== "-" ? kanjiList[currentIndex]?.kunyomi : kanjiList[currentIndex]?.onyomi})`;
+
   const options = useMemo(
     () => getQuizOptions(kanjiList, currentIndex),
     [currentIndex, kanjiList],
@@ -138,7 +161,6 @@ const QuizView: React.FC<QuizViewProps> = ({
     };
 
     const feedback = getFeedback();
-
     return (
       <div
         className={`p-10 rounded-[2.5rem] border-2 text-center shadow-2xl relative overflow-hidden transition-all duration-700 ${styles.card}`}

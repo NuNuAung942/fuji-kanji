@@ -1,0 +1,1020 @@
+{
+  "week": 1,
+  "week_title": "Week 1",
+  "days": [
+    {
+      "day": 1,
+      "day_title": "じゅうしょ",
+      "kanji_list": [
+        {
+          "id": 111,
+          "kanji": "住",
+          "meaning_en": "live / reside",
+          "meaning_mm": "နေထိုင်သည်",
+          "onyomi": "ジュウ",
+          "kunyomi": "す (む)",
+          "compounds": [
+            {
+              "kanji": "住む",
+              "reading": "すむ",
+              "meaning_mm": "နေထိုင်သည်"
+            },
+            {
+              "kanji": "住民",
+              "reading": "じゅうみん",
+              "meaning_mm": "နေထိုင်သူ / တိုင်းသူပြည်သား"
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "kanji": "所",
+          "meaning_en": "place",
+          "meaning_mm": "နေရာ",
+          "onyomi": "ショ",
+          "kunyomi": "ところ",
+          "compounds": [
+            {
+              "kanji": "所",
+              "reading": "ところ",
+              "meaning_mm": "နေရာ"
+            },
+            {
+              "kanji": "住所",
+              "reading": "じゅうしょ",
+              "meaning_mm": "လိပ်စာ"
+            },
+            {
+              "kanji": "台所",
+              "reading": "だいどころ",
+              "meaning_mm": "မီးဖိုချောင်"
+            },
+            {
+              "kanji": "場所",
+              "reading": "ばしょ",
+              "meaning_mm": "နေရာ / အရပ်ဒေသ"
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "kanji": "京",
+          "meaning_en": "capital",
+          "meaning_mm": "မြို့တော်",
+          "onyomi": "キョウ",
+          "kunyomi": "みやこ",
+          "compounds": [
+            {
+              "kanji": "東京",
+              "reading": "とうきょう",
+              "meaning_mm": "တိုကျိုမြို့"
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "kanji": "都",
+          "meaning_en": "metropolis / capital",
+          "meaning_mm": "မြို့ကြီး / မြို့တော်",
+          "onyomi": "ト",
+          "kunyomi": "みやこ",
+          "compounds": [
+            {
+              "kanji": "東京都",
+              "reading": "とうきょうと",
+              "meaning_mm": "တိုကျိုမြို့တော်ကြီး"
+            },
+            {
+              "kanji": "都合",
+              "reading": "つごう",
+              "meaning_mm": "အဆင်ပြေမှု (အခြေအနေ/အချိန်)"
+            },
+            {
+              "kanji": "首都",
+              "reading": "しゅと",
+              "meaning_mm": "မြို့တော်"
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "kanji": "府",
+          "meaning_en": "administrative prefecture",
+          "meaning_mm": "စီရင်စု (အထူးသဖြင့် ကျိုတိုနှင့် အိုဆာကာ)",
+          "onyomi": "フ",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "京都府",
+              "reading": "きょうとふ",
+              "meaning_mm": "ကျိုတိုစီရင်စု"
+            },
+            {
+              "kanji": "大阪府",
+              "reading": "おおさかふ",
+              "meaning_mm": "အိုဆာကာစီရင်စု"
+            },
+            {
+              "kanji": "政府",
+              "reading": "せいふ",
+              "meaning_mm": "အစိုးရ"
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "kanji": "県",
+          "meaning_en": "prefecture",
+          "meaning_mm": "စီရင်စု / ခရိုင်",
+          "onyomi": "ケン",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "山口県",
+              "reading": "やまぐちけん",
+              "meaning_mm": "ယာမာဂုချိစီရင်စု"
+            },
+            {
+              "kanji": "県知事",
+              "reading": "けんちじ",
+              "meaning_mm": "စီရင်စုအုပ်ချုပ်ရေးမှူး / မြို့တော်ဝန်"
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "kanji": "市",
+          "meaning_en": "city / market",
+          "meaning_mm": "မြို့ / ဈေး",
+          "onyomi": "シ",
+          "kunyomi": "いち",
+          "compounds": [
+            {
+              "kanji": "京都市",
+              "reading": "きょうとし",
+              "meaning_mm": "ကျိုတိုမြို့"
+            },
+            {
+              "kanji": "市長",
+              "reading": "しちょう",
+              "meaning_mm": "မြို့တော်ဝန်"
+            },
+            {
+              "kanji": "市場",
+              "reading": "いちば",
+              "meaning_mm": "ဈေး"
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "kanji": "区",
+          "meaning_en": "ward / district",
+          "meaning_mm": "ရပ်ကွက် / မြို့နယ်အပိုင်းအခြား",
+          "onyomi": "ク",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "北区",
+              "reading": "きたく",
+              "meaning_mm": "မြောက်ပိုင်းရပ်ကွက်"
+            },
+            {
+              "kanji": "文京区",
+              "reading": "ぶんきょうく",
+              "meaning_mm": "ဘွန်ခယောရပ်ကွက်"
+            },
+            {
+              "kanji": "区長",
+              "reading": "くちょう",
+              "meaning_mm": "ရပ်ကွက်/မြို့နယ်အုပ်ချုပ်ရေးမှူး"
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "kanji": "町",
+          "meaning_en": "town",
+          "meaning_mm": "မြို့နယ် / မြို့ကလေး",
+          "onyomi": "チョウ",
+          "kunyomi": "まち",
+          "compounds": [
+            {
+              "kanji": "町",
+              "reading": "まち",
+              "meaning_mm": "မြို့နယ်"
+            },
+            {
+              "kanji": "下町",
+              "reading": "したまち",
+              "meaning_mm": "မြို့လယ်ကောင် / လူစည်ကားရာအရပ်"
+            },
+            {
+              "kanji": "町長",
+              "reading": "ちょうちょう",
+              "meaning_mm": "မြို့နယ်အုပ်ချုပ်ရေးမှူး"
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "kanji": "村",
+          "meaning_en": "village",
+          "meaning_mm": "ရွာ",
+          "onyomi": "ソン",
+          "kunyomi": "むら",
+          "compounds": [
+            {
+              "kanji": "村",
+              "reading": "むら",
+              "meaning_mm": "ရွာ"
+            },
+            {
+              "kanji": "村人",
+              "reading": "むらびと",
+              "meaning_mm": "ရွာသား / ရွာသူရွာသား"
+            },
+            {
+              "kanji": "村長",
+              "reading": "そんちょう",
+              "meaning_mm": "ရွာလူကြီး / သူကြီး"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "形容詞　１",
+      "kanji_list": [
+        {
+          "id": 121,
+          "kanji": "明",
+          "meaning_en": "bright / clear",
+          "meaning_mm": "လင်းသော / ရှင်းလင်းသော",
+          "onyomi": "メイ",
+          "kunyomi": "あか (るい)",
+          "compounds": [
+            {
+              "kanji": "明るい",
+              "reading": "あかるい",
+              "meaning_mm": "လင်းသော / လင်းလင်းချင်းချင်းရှိသော"
+            },
+            {
+              "kanji": "明日",
+              "reading": "あした / あす",
+              "meaning_mm": "မနက်ဖြန်"
+            },
+            {
+              "kanji": "説明",
+              "reading": "せつめい",
+              "meaning_mm": "ရှင်းပြခြင်း / ရှင်းလင်းချက်"
+            },
+            {
+              "kanji": "発明",
+              "reading": "hatsumei",
+              "meaning_mm": "တီထွင်ဆန်းသစ်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "kanji": "暗",
+          "meaning_en": "dark",
+          "meaning_mm": "မှောင်သော",
+          "onyomi": "アン",
+          "kunyomi": "くら (い)",
+          "compounds": [
+            {
+              "kanji": "暗い",
+              "reading": "くらい",
+              "meaning_mm": "မှောင်သော"
+            },
+            {
+              "kanji": "暗号",
+              "reading": "あんごう",
+              "meaning_mm": "လျှို့ဝှက်ကုဒ် / လျှို့ဝှက်စကား"
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "kanji": "遠",
+          "meaning_en": "far",
+          "meaning_mm": "ဝေးသော",
+          "onyomi": "エン",
+          "kunyomi": "とお (い)",
+          "compounds": [
+            {
+              "kanji": "遠い",
+              "reading": "遠い",
+              "meaning_mm": "ဝေးသော"
+            },
+            {
+              "kanji": "遠足",
+              "reading": "えんそく",
+              "meaning_mm": "လေ့လာရေးခရီး / ပျော်ပွဲစားထွက်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "kanji": "近",
+          "meaning_en": "near",
+          "meaning_mm": "နီးသော",
+          "onyomi": "キン",
+          "kunyomi": "ちか (い)",
+          "compounds": [
+            {
+              "kanji": "近い",
+              "reading": "ちかい",
+              "meaning_mm": "နီးသော"
+            },
+            {
+              "kanji": "近所",
+              "reading": "きんじょ",
+              "meaning_mm": "အိမ်နီးနားချင်း / အနီးအနားပတ်ဝန်းကျင်"
+            },
+            {
+              "kanji": "最近",
+              "reading": "さいきん",
+              "meaning_mm": "လတ်တလော / မကြာသေးမီက"
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "kanji": "強",
+          "meaning_en": "strong",
+          "meaning_mm": "သန်မာသော / အားကောင်းသော",
+          "onyomi": "キョウ",
+          "kunyomi": "つよ (い)",
+          "compounds": [
+            {
+              "kanji": "強い",
+              "reading": "つよい",
+              "meaning_mm": "သန်မာသော / စွမ်းအားရှိသော"
+            },
+            {
+              "kanji": "勉強する",
+              "reading": "べんきょうする",
+              "meaning_mm": "စာလေ့လာသည် / ပညာသင်ယူသည်"
+            },
+            {
+              "kanji": "強風",
+              "reading": "きょうふう",
+              "meaning_mm": "လေပြင်းမုန်တိုင်း"
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "kanji": "弱",
+          "meaning_en": "weak",
+          "meaning_mm": "အားနည်းသော",
+          "onyomi": "ジャク",
+          "kunyomi": "よわ (い)",
+          "compounds": [
+            {
+              "kanji": "弱い",
+              "reading": "よわい",
+              "meaning_mm": "အားနည်းသော / မသန်မစွမ်းဖြစ်သော"
+            },
+            {
+              "kanji": "強弱",
+              "reading": "きょうじゃく",
+              "meaning_mm": "အနှေးအမြန် အနိမ့်အမြင့် / အားသာချက်နှင့် အားနည်းချက်"
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "kanji": "重",
+          "meaning_en": "heavy / important",
+          "meaning_mm": "လေးလံသော / အရေးကြီးသော",
+          "onyomi": "ジュウ",
+          "kunyomi": "おも (い)",
+          "compounds": [
+            {
+              "kanji": "重い",
+              "reading": "おもい",
+              "meaning_mm": "လေးလံသော"
+            },
+            {
+              "kanji": "重大な",
+              "reading": "じゅうだいな",
+              "meaning_mm": "အရေးကြီးသော / ကြီးလေးသော"
+            },
+            {
+              "kanji": "体重",
+              "reading": "たいじゅう",
+              "meaning_mm": "ကိုယ်အလေးချိန်"
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "kanji": "軽",
+          "meaning_en": "light",
+          "meaning_mm": "ပေါ့ပါးသော",
+          "onyomi": "ケイ",
+          "kunyomi": "かる (い)",
+          "compounds": [
+            {
+              "kanji": "軽い",
+              "reading": "かるい",
+              "meaning_mm": "ပေါ့ပါးသော"
+            },
+            {
+              "kanji": "軽食",
+              "reading": "けいしょく",
+              "meaning_mm": "အပေါ့စားအစားအစာ / မုန့်ပဲသရေစာ"
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "kanji": "太",
+          "meaning_en": "fat",
+          "meaning_mm": "ဝသော / တုတ်သော",
+          "onyomi": "タイ",
+          "kunyomi": "ふと (い)",
+          "compounds": [
+            {
+              "kanji": "太い",
+              "reading": "ふとい",
+              "meaning_mm": "တုတ်သော / ကြီးမားသော"
+            },
+            {
+              "kanji": "太陽",
+              "reading": "たいよう",
+              "meaning_mm": "နေမင်းကြီး"
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "kanji": "細",
+          "meaning_en": "slender / fine",
+          "meaning_mm": "သေးသွယ်သော / သေးငယ်သော",
+          "onyomi": "サイ",
+          "kunyomi": "ほそ (い) / こま (かい)",
+          "compounds": [
+            {
+              "kanji": "細い",
+              "reading": "ほそい",
+              "meaning_mm": "သေးသွယ်သော / နုနယ်သော"
+            },
+            {
+              "kanji": "細かい",
+              "reading": "こまかい",
+              "meaning_mm": "သေးငယ်သော / အသေးစိတ်ကျသော"
+            },
+            {
+              "kanji": "細工",
+              "reading": "さいく",
+              "meaning_mm": "လက်မှုပညာ / လက်ရာ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "形容詞　２",
+      "kanji_list": [
+        {
+          "id": 131,
+          "kanji": "特",
+          "meaning_en": "special",
+          "meaning_mm": "ထူးခြားသော / အထူးသဖြင့်",
+          "onyomi": "トク",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "特に",
+              "reading": "トクに",
+              "meaning_mm": "အထူးသဖြင့်"
+            },
+            {
+              "kanji": "特別な",
+              "reading": "トクべつな",
+              "meaning_mm": "ထူးခြားသော / အထူးဖြစ်သော"
+            },
+            {
+              "kanji": "特急",
+              "reading": "トッキュウ",
+              "meaning_mm": "အမြန်ရထား (အထူးအမြန်)"
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "kanji": "別",
+          "meaning_en": "separate",
+          "meaning_mm": "ခွဲခြားသည် / သီးခြားစီဖြစ်သော",
+          "onyomi": "ベツ",
+          "kunyomi": "わか (れる)",
+          "compounds": [
+            {
+              "kanji": "別れる",
+              "reading": "わかれる",
+              "meaning_mm": "လမ်းခွဲသည် / ကွဲကွာသည်"
+            },
+            {
+              "kanji": "別々に",
+              "reading": "べつべつに",
+              "meaning_mm": "သီးခြားစီ / တစ်ဦးစီ"
+            },
+            {
+              "kanji": "区別する",
+              "reading": "くべつする",
+              "meaning_mm": "ခွဲခြားသတ်မှတ်သည်"
+            },
+            {
+              "kanji": "分別する",
+              "reading": "ぶんべつする",
+              "meaning_mm": "အမျိုးအစားခွဲခြားသည် (ဥပမာ-အမှိုက်ခွဲခြင်း)"
+            }
+          ]
+        },
+        {
+          "id": 133,
+          "kanji": "有",
+          "meaning_en": "exist / have",
+          "meaning_mm": "ရှိသည် / ပိုင်ဆိုင်သည်",
+          "onyomi": "ユウ",
+          "kunyomi": "あ (る)",
+          "compounds": [
+            {
+              "kanji": "有る",
+              "reading": "ある",
+              "meaning_mm": "ရှိသည်"
+            },
+            {
+              "kanji": "有名な",
+              "reading": "ゆうめいな",
+              "meaning_mm": "နာမည်ကြီးသော / ကျော်ကြားသော"
+            },
+            {
+              "kanji": "有料",
+              "reading": "ゆうりょう",
+              "meaning_mm": "အခကြေးငွေပေးရသော"
+            }
+          ]
+        },
+        {
+          "id": 134,
+          "kanji": "便",
+          "meaning_en": "convenience / mail",
+          "meaning_mm": "အဆင်ပြေမှု / ချောစာ (စာပို့ခြင်း)",
+          "onyomi": "ベン / ビン",
+          "kunyomi": "たよ (り)",
+          "compounds": [
+            {
+              "kanji": "便り",
+              "reading": "たより",
+              "meaning_mm": "သတင်းစကား / စာ"
+            },
+            {
+              "kanji": "郵便局",
+              "reading": "ゆうびんきょく",
+              "meaning_mm": "စာတိုက်"
+            },
+            {
+              "kanji": "船便",
+              "reading": "ふなびん",
+              "meaning_mm": "ရေကြောင်းချောပို့ / သင်္ဘောဖြင့်စာပို့ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 135,
+          "kanji": "利",
+          "meaning_en": "profit / benefit",
+          "meaning_mm": "အကျိုးအမြတ် / အသုံးဝင်မှု",
+          "onyomi": "リ",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "便利な",
+              "reading": "べんりな",
+              "meaning_mm": "အဆင်ပြေချောမွေ့သော / သက်တောင့်သက်သာရှိသော"
+            },
+            {
+              "kanji": "利用する",
+              "reading": "りようする",
+              "meaning_mm": "အသုံးပြုသည်"
+            },
+            {
+              "kanji": "利子",
+              "reading": "りし",
+              "meaning_mm": "အတိုး (ငွေကြေး)"
+            },
+            {
+              "kanji": "有利な",
+              "reading": "ゆうりな",
+              "meaning_mm": "အခြေအနေကောင်းသော / အသာစီးရသော"
+            }
+          ]
+        },
+        {
+          "id": 136,
+          "kanji": "不",
+          "meaning_en": "not",
+          "meaning_mm": "မ~ (ငြင်းပယ်ခြင်းပြစကားလုံး)",
+          "onyomi": "フ / ブ",
+          "kunyomi": "",
+          "compounds": [
+            {
+              "kanji": "不便な",
+              "reading": "ふべんな",
+              "meaning_mm": "အဆင်မပြေသော"
+            },
+            {
+              "kanji": "不足する",
+              "reading": "ふそくする",
+              "meaning_mm": "မလုံလောက်ဖြစ်သည် / လိုအပ်ချက်ရှိသည်"
+            },
+            {
+              "kanji": "不安な",
+              "reading": "ふあんな",
+              "meaning_mm": "စိုးရိမ်သောကဖြစ်သော / မအေးချမ်းသော"
+            },
+            {
+              "kanji": "不運な",
+              "reading": "ふうんな",
+              "meaning_mm": "ကံမကောင်းသော"
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "kanji": "切",
+          "meaning_en": "cut",
+          "meaning_mm": "ဖြတ်သည် / တိသည်",
+          "onyomi": "セツ",
+          "kunyomi": "き (る)",
+          "compounds": [
+            {
+              "kanji": "切る",
+              "reading": "きる",
+              "meaning_mm": "ဖြတ်သည်"
+            },
+            {
+              "kanji": "切手",
+              "reading": "きって",
+              "meaning_mm": "တံဆိပ်ခေါင်း"
+            },
+            {
+              "kanji": "大切な",
+              "reading": "たいせつな",
+              "meaning_mm": "အရေးကြီးသော / တန်ဖိုးထားရသော"
+            },
+            {
+              "kanji": "親切な",
+              "reading": "しんせつな",
+              "meaning_mm": "ကြင်နာတတ်သော / ဖော်ရွေသော"
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "kanji": "元",
+          "meaning_en": "origin",
+          "meaning_mm": "မူလ / အရင်းအမြစ်",
+          "onyomi": "ゲン / ガン",
+          "kunyomi": "もと",
+          "compounds": [
+            {
+              "kanji": "元気な",
+              "reading": "げんきな",
+              "meaning_mm": "ကျန်းမာသော / လန်းဆန်းတက်ကြွသော"
+            },
+            {
+              "kanji": "元日",
+              "reading": "がんじつ",
+              "meaning_mm": "နှစ်ဆန်းတစ်ရက်နေ့"
+            },
+            {
+              "kanji": "紀元前",
+              "reading": "きげんぜん",
+              "meaning_mm": "ခရစ်တော်မပေါ်မီခေတ် (B.C.)"
+            }
+          ]
+        },
+        {
+          "id": 139,
+          "kanji": "好",
+          "meaning_en": "like / favorite",
+          "meaning_mm": "ကြိုက်နှစ်သက်သော",
+          "onyomi": "コウ",
+          "kunyomi": "す (き)",
+          "compounds": [
+            {
+              "kanji": "好きな",
+              "reading": "すきな",
+              "meaning_mm": "ကြိုက်နှစ်သက်သော"
+            },
+            {
+              "kanji": "好意",
+              "reading": "こうい",
+              "meaning_mm": "စေတနာ / နှစ်လိုစိတ်"
+            },
+            {
+              "kanji": "好物",
+              "reading": "こうぶつ",
+              "meaning_mm": "အကြိုက်ဆုံးအစားအစာ"
+            }
+          ]
+        },
+        {
+          "id": 140,
+          "kanji": "急",
+          "meaning_en": "hurry / suddenly",
+          "meaning_mm": "လောသော / အလျင်စလိုဖြစ်သော / ရုတ်တရက်",
+          "onyomi": "キュウ",
+          "kunyomi": "いそ (ぐ)",
+          "compounds": [
+            {
+              "kanji": "急に",
+              "reading": "きゅうに",
+              "meaning_mm": "ရုတ်တရက် / ချက်ချင်း"
+            },
+            {
+              "kanji": "特急",
+              "reading": "トッキュウ",
+              "meaning_mm": "အမြန်ရထား (အထူးအမြန်)"
+            },
+            {
+              "kanji": "急ぐ",
+              "reading": "いそぐ",
+              "meaning_mm": "အလျင်စလိုလုပ်သည် / လောသည်"
+            },
+            {
+              "kanji": "急用",
+              "reading": "きゅうよう",
+              "meaning_mm": "အရေးကြီးကိစ္စ / အရေးပေါ်ကိစ္စ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "形容詞　３",
+      "kanji_list": [
+        {
+          "id": 141,
+          "kanji": "低",
+          "meaning_en": "low",
+          "meaning_mm": "နိမ့်သော / နှိမ့်သော",
+          "onyomi": "テイ",
+          "kunyomi": "ひく (い)",
+          "compounds": [
+            {
+              "kanji": "低い",
+              "reading": "ひくい",
+              "meaning_mm": "နိမ့်သော / ပုသော"
+            },
+            {
+              "kanji": "低下する",
+              "reading": "ていかする",
+              "meaning_mm": "ကျဆင်းသည် / လျော့နည်းသည်"
+            },
+            {
+              "kanji": "低気圧",
+              "reading": "ていきあつ",
+              "meaning_mm": "လေဖိအားနည်းရပ်ဝန်း"
+            }
+          ]
+        },
+        {
+          "id": 142,
+          "kanji": "広",
+          "meaning_en": "spacious / wide",
+          "meaning_mm": "ကျယ်ပြောသော / ကျယ်ဝန်းသော",
+          "onyomi": "コウ",
+          "kunyomi": "ひろ (い)",
+          "compounds": [
+            {
+              "kanji": "広い",
+              "reading": "ひろい",
+              "meaning_mm": "ကျယ်ဝန်းသော"
+            },
+            {
+              "kanji": "広場",
+              "reading": "ひろば",
+              "meaning_mm": "ကွင်းပြင် /ရင်ပြင်"
+            },
+            {
+              "kanji": "広大な",
+              "reading": "こうだいな",
+              "meaning_mm": "ကျယ်ပြောလှသော / ကြီးမားကျယ်ဝန်းသော"
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "kanji": "短",
+          "meaning_en": "short",
+          "meaning_mm": "တိုသော",
+          "onyomi": "タン",
+          "kunyomi": "みじか (い)",
+          "compounds": [
+            {
+              "kanji": "短い",
+              "reading": "みじかい",
+              "meaning_mm": "တိုသော"
+            },
+            {
+              "kanji": "短時間",
+              "reading": "たんじかん",
+              "meaning_mm": "အချိန်တိုအတွင်း / အချိန်ခဏလေး"
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "kanji": "良",
+          "meaning_en": "good",
+          "meaning_mm": "ကောင်းသော",
+          "onyomi": "リョウ",
+          "kunyomi": "よ (い)",
+          "compounds": [
+            {
+              "kanji": "良い",
+              "reading": "よい / いい",
+              "meaning_mm": "ကောင်းသော"
+            },
+            {
+              "kanji": "良心",
+              "reading": "りょうしん",
+              "meaning_mm": "သိက္ခာ / အမှားအမှန်သိတတ်သောစိတ်"
+            }
+          ]
+        },
+        {
+          "id": 145,
+          "kanji": "悪",
+          "meaning_en": "bad",
+          "meaning_mm": "ဆိုးသော / မကောင်းသော",
+          "onyomi": "アク",
+          "kunyomi": "わる (い)",
+          "compounds": [
+            {
+              "kanji": "悪い",
+              "reading": "わるい",
+              "meaning_mm": "မကောင်းသော / ဆိုးဝါးသော"
+            },
+            {
+              "kanji": "悪人",
+              "reading": "あくにん",
+              "meaning_mm": "လူဆိုး / လူမိုက်"
+            }
+          ]
+        },
+        {
+          "id": 146,
+          "kanji": "正",
+          "meaning_en": "correct / right",
+          "meaning_mm": "မှန်ကန်သော / တည့်မတ်သော",
+          "onyomi": "セイ / ショウ",
+          "kunyomi": "ただ (しい)",
+          "compounds": [
+            {
+              "kanji": "正しい",
+              "reading": "正しい",
+              "meaning_mm": "မှန်ကန်သော / တရားမျှတသော"
+            },
+            {
+              "kanji": "正月",
+              "reading": "しょうがつ",
+              "meaning_mm": "နှစ်ဆန်းတစ်ရက်နေ့ / နှစ်သစ်ကူးပွဲတော်"
+            },
+            {
+              "kanji": "正門",
+              "reading": "せいもん",
+              "meaning_mm": "အဓိကဝင်ပေါက် / မုခ်ဦးဂိတ်"
+            }
+          ]
+        },
+        {
+          "id": 147,
+          "kanji": "変",
+          "meaning_en": "change / strange",
+          "meaning_mm": "ပြောင်းလဲခြင်း / ထူးဆန်းသော",
+          "onyomi": "ヘン",
+          "kunyomi": "か (わる) / か (える)",
+          "compounds": [
+            {
+              "kanji": "変わる",
+              "reading": "かわる",
+              "meaning_mm": "ပြောင်းလဲသည်"
+            },
+            {
+              "kanji": "変な",
+              "reading": "へんな",
+              "meaning_mm": "ထူးဆန်းသော / မူမမှန်သော"
+            },
+            {
+              "kanji": "大変な",
+              "reading": "たいへんな",
+              "meaning_mm": "ပင်ပန်းခက်ခဲသော / ကြီးမားသောကိစ္စ"
+            },
+            {
+              "kanji": "変化する",
+              "reading": "へんかする",
+              "meaning_mm": "ပြောင်းလဲမှုဖြစ်ပေါ်သည်"
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "kanji": "赤",
+          "meaning_en": "red",
+          "meaning_mm": "အနီရောင်",
+          "onyomi": "セキ",
+          "kunyomi": "あか (い)",
+          "compounds": [
+            {
+              "kanji": "赤い",
+              "reading": "あかい",
+              "meaning_mm": "အနီရောင်ရှိသော"
+            },
+            {
+              "kanji": "赤ちゃん",
+              "reading": "赤ちゃん",
+              "meaning_mm": "ကလေးသူငယ် / ရင်သွေးငယ်"
+            },
+            {
+              "kanji": "赤信信号",
+              "reading": "あかしんごう",
+              "meaning_mm": "မီးပွိုင့်မီးနီ"
+            },
+            {
+              "kanji": "赤道",
+              "reading": "せきどう",
+              "meaning_mm": "အီကွေတာမျဉ်း"
+            }
+          ]
+        },
+        {
+          "id": 149,
+          "kanji": "青",
+          "meaning_en": "blue",
+          "meaning_mm": "အပြာရောင်",
+          "onyomi": "セイ",
+          "kunyomi": "あお (い)",
+          "compounds": [
+            {
+              "kanji": "青い",
+              "reading": "あおい",
+              "meaning_mm": "အပြာရောင်ရှိသော"
+            },
+            {
+              "kanji": "青空",
+              "reading": "あおぞら",
+              "meaning_mm": "ပြာလွင်သောကောင်းကင်ကြီး"
+            },
+            {
+              "kanji": "青春",
+              "reading": "せいしゅん",
+              "meaning_mm": "လူငယ်ဘဝ / ပျိုမြစ်သောအရွယ်"
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "kanji": "黑",
+          "meaning_en": "black",
+          "meaning_mm": "အမည်းရောင်",
+          "onyomi": "コク",
+          "kunyomi": "くろ (い)",
+          "compounds": [
+            {
+              "kanji": "黒い",
+              "reading": "くろい",
+              "meaning_mm": "အမည်းရောင်ရှိသော"
+            },
+            {
+              "kanji": "真っ黒",
+              "reading": "まっくろ",
+              "meaning_mm": "မည်းနက်နေသော"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "形容詞　２",
+      "kanji_list": []
+    },
+    {
+      "day": 6,
+      "day_title": "形容詞　２",
+      "kanji_list": []
+    }
+  ]
+}
