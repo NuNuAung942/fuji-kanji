@@ -1,0 +1,1037 @@
+{
+  "week": 1,
+  "week_title": "N5 Week 1",
+  "days": [
+    {
+      "day": 1,
+      "day_title": "駐車場 (Parking Lot)",
+      "kanji_list": [
+        {
+          "id": 101,
+          "kanji": "太",
+          "meaning_en": "Parking",
+          "meaning_mm": "ယာဉ်ရပ်နားခြင်း",
+          "onyomi": "チュウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "駐車場",
+              "reading": "ちゅうしゃじょう",
+              "meaning_mm": "ကားပါကင်"
+            },
+            {
+              "kanji": "駐輪場",
+              "reading": "ちゅうりんじょう",
+              "meaning_mm": "စက်ဘီးရပ်နားစခန်း"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "kanji": "無",
+          "meaning_en": "None/Empty",
+          "meaning_mm": "မရှိခြင်း / အလကား",
+          "onyomi": "ム / ブ",
+          "kunyomi": "な（ない）",
+          "compounds": [
+            {
+              "kanji": "無休",
+              "reading": "むきゅう",
+              "meaning_mm": "နားရက်မရှိ"
+            },
+            { "kanji": "無料", "reading": "むりょう", "meaning_mm": "အခမဲ့" },
+            {
+              "kanji": "無理（な）",
+              "reading": "むり",
+              "meaning_mm": "မဖြစ်နိုင်သော"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "kanji": "満",
+          "meaning_en": "Full",
+          "meaning_mm": "ပြည့်နှက်ခြင်း",
+          "onyomi": "マン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "満車",
+              "reading": "まんしゃ",
+              "meaning_mm": "ကားပြည့်နေသည်"
+            },
+            {
+              "kanji": "満員",
+              "reading": "まんいん",
+              "meaning_mm": "လူပြည့်နေသည်"
+            },
+            {
+              "kanji": "不満（な）",
+              "reading": "ふまん",
+              "meaning_mm": "မကျေနပ်သော"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "kanji": "向",
+          "meaning_en": "Direction",
+          "meaning_mm": "မျက်နှာမူရာဘက်",
+          "onyomi": "コウ",
+          "kunyomi": "む（こう）",
+          "compounds": [
+            {
+              "kanji": "方向",
+              "reading": "ほうこう",
+              "meaning_mm": "ဦးတည်ရာဘက်"
+            },
+            { "kanji": "向こう", "reading": "むこう", "meaning_mm": "ဟိုဘက်" },
+            {
+              "kanji": "向かう",
+              "reading": "むかう",
+              "meaning_mm": "ရှေ့သို့သွားသည်"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "kanji": "禁",
+          "meaning_en": "Prohibition",
+          "meaning_mm": "တားမြစ်ခြင်း",
+          "onyomi": "キン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "禁止",
+              "reading": "きんし",
+              "meaning_mm": "တားမြစ်ချက်"
+            },
+            {
+              "kanji": "禁煙",
+              "reading": "きန်えん",
+              "meaning_mm": "ဆေးလိပ်မသောက်ရ"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "kanji": "関",
+          "meaning_en": "Relation",
+          "meaning_mm": "ပတ်သက်သော",
+          "onyomi": "カン",
+          "kunyomi": "せき",
+          "compounds": [
+            {
+              "kanji": "関心",
+              "reading": "かんしん",
+              "meaning_mm": "စိတ်ဝင်စားမှု"
+            },
+            {
+              "kanji": "関する",
+              "reading": "かんする",
+              "meaning_mm": "နှင့်ပတ်သက်သော"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "kanji": "係",
+          "meaning_en": "Person in charge",
+          "meaning_mm": "တာဝန်ခံ / ပတ်သက်မှု",
+          "onyomi": "ケイ",
+          "kunyomi": "かかり",
+          "compounds": [
+            {
+              "kanji": "関係",
+              "reading": "かんけい",
+              "meaning_mm": "ပတ်သက်မှု"
+            },
+            { "kanji": "係", "reading": "かかり", "meaning_mm": "တာဝန်ခံ" }
+          ]
+        },
+        {
+          "id": 108,
+          "kanji": "断",
+          "meaning_en": "Refuse/Cut off",
+          "meaning_mm": "ငြင်းဆိုခြင်း / ဖြတ်တောက်ခြင်း",
+          "onyomi": "ダン",
+          "kunyomi": "ことわ（る）",
+          "compounds": [
+            {
+              "kanji": "無断",
+              "reading": "むだん",
+              "meaning_mm": "ခွင့်ပြုချက်မရှိဘဲ"
+            },
+            {
+              "kanji": "断水",
+              "reading": "だんすい",
+              "meaning_mm": "ရေဖြတ်ထားခြင်း"
+            },
+            {
+              "kanji": "断る",
+              "reading": "ことわる",
+              "meaning_mm": "ငြင်းဆိုသည်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "横断歩道 (Pedestrian Crossing)",
+      "kanji_list": [
+        {
+          "id": 201,
+          "kanji": "横",
+          "meaning_en": "Side",
+          "meaning_mm": "ဘေးတိုက် / ကန့်လန့်",
+          "onyomi": "オウ",
+          "kunyomi": "よこ",
+          "compounds": [
+            {
+              "kanji": "横断",
+              "reading": "おうだん",
+              "meaning_mm": "ဖြတ်ကူးခြင်း"
+            },
+            {
+              "kanji": "横断歩道",
+              "reading": "おうだんほどう",
+              "meaning_mm": "လူကူးမျဉ်းကျား"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "kanji": "押",
+          "meaning_en": "Push",
+          "meaning_mm": "တွန်းခြင်း / နှိပ်ခြင်း",
+          "onyomi": "オウ",
+          "kunyomi": "お（す）",
+          "compounds": [
+            { "kanji": "押す", "reading": "おす", "meaning_mm": "နှိပ်သည်" },
+            {
+              "kanji": "押し入れ",
+              "reading": "おしいれ",
+              "meaning_mm": "နံရံကပ်ဗီဒို"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "kanji": "式",
+          "meaning_en": "Style/Formula",
+          "meaning_mm": "ပုံစံ / အခမ်းအနား",
+          "onyomi": "シキ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "押しボタン式",
+              "reading": "おしボタンしき",
+              "meaning_mm": "ခလုတ်နှိပ်သည့်ပုံစံ"
+            },
+            {
+              "kanji": "入学式",
+              "reading": "にゅうがくしき",
+              "meaning_mm": "ကျောင်းဝင်ပွဲ"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "kanji": "信",
+          "meaning_en": "Trust/Signal",
+          "meaning_mm": "ယုံကြည်ခြင်း / အချက်ပြ",
+          "onyomi": "シン",
+          "kunyomi": "しん（じる）",
+          "compounds": [
+            {
+              "kanji": "送信",
+              "reading": "そうしん",
+              "meaning_mm": "ပေးပို့ခြင်း"
+            },
+            {
+              "kanji": "信号",
+              "reading": "しんごう",
+              "meaning_mm": "မီးပွိုင့်"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "kanji": "号",
+          "meaning_en": "Number",
+          "meaning_mm": "နံပါတ်",
+          "onyomi": "ゴウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "〜号車",
+              "reading": "ごうしゃ",
+              "meaning_mm": "တွဲနံပါတ် ---"
+            },
+            {
+              "kanji": "信号",
+              "reading": "しんごう",
+              "meaning_mm": "မီးပွိုင့်"
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "kanji": "確",
+          "meaning_en": "Certain",
+          "meaning_mm": "သေချာသော",
+          "onyomi": "カク",
+          "kunyomi": "たし（かめる）",
+          "compounds": [
+            {
+              "kanji": "正確（な）",
+              "reading": "せいかく",
+              "meaning_mm": "တိကျသော"
+            },
+            {
+              "kanji": "確かめる",
+              "reading": "たしかめる",
+              "meaning_mm": "စစ်ဆေးအတည်ပြုသည်"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "kanji": "認",
+          "meaning_en": "Confirm/Admit",
+          "meaning_mm": "အတည်ပြုခြင်း / ဝန်ခံခြင်း",
+          "onyomi": "ニン",
+          "kunyomi": "みと（める）",
+          "compounds": [
+            {
+              "kanji": "確認",
+              "reading": "かく確認",
+              "meaning_mm": "စစ်ဆေးအတည်ပြုခြင်း"
+            },
+            {
+              "kanji": "認める",
+              "reading": "みとめると",
+              "meaning_mm": "ဝန်ခံသည်"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "kanji": "飛",
+          "meaning_en": "Fly",
+          "meaning_mm": "ပျံသန်းခြင်း / ခုန်ထွက်ခြင်း",
+          "onyomi": "ヒ",
+          "kunyomi": "と（ぶ）",
+          "compounds": [
+            {
+              "kanji": "飛行場",
+              "reading": "ひこうじょう",
+              "meaning_mm": "လေယာဉ်ကွင်း"
+            },
+            { "kanji": "飛ぶ", "reading": "とぶ", "meaning_mm": "ပျံသည်" }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "サイン (Signs)",
+      "kanji_list": [
+        {
+          "id": 301,
+          "kanji": "非",
+          "meaning_en": "Negative",
+          "meaning_mm": "အရေးပေါ်",
+          "onyomi": "ヒ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "非常口",
+              "reading": "ひじょうぐち",
+              "meaning_mm": "အရေးပေါ်ထွက်ပေါက်"
+            },
+            {
+              "kanji": "非常に",
+              "reading": "ひじょうに",
+              "meaning_mm": "အလွန်အမင်း"
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "kanji": "常",
+          "meaning_en": "Normal / Always",
+          "meaning_mm": "ပုံမှန် / အမြဲတမ်း",
+          "onyomi": "ジョウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "日常",
+              "reading": "にちじょう",
+              "meaning_mm": "နေ့စဉ်ပုံမှန်"
+            },
+            {
+              "kanji": "正常（な）",
+              "reading": "せいじょう",
+              "meaning_mm": "ပုံမှန်ဖြစ်သော"
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "kanji": "階",
+          "meaning_en": "Floor",
+          "meaning_mm": "အထပ်",
+          "onyomi": "カイ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "〜階", "reading": "かい", "meaning_mm": "--- ထပ်" },
+            { "kanji": "階段", "reading": "かいだん", "meaning_mm": "လှေကား" }
+          ]
+        },
+        {
+          "id": 304,
+          "kanji": "段",
+          "meaning_en": "Step / Grade",
+          "meaning_mm": "အဆင့် / လှေကားထစ်",
+          "onyomi": "ダン",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "階段", "reading": "かいだん", "meaning_mm": "လှေကား" },
+            { "kanji": "値段", "reading": "ねだん", "meaning_mm": "ဈေးနှုန်း" }
+          ]
+        },
+        {
+          "id": 305,
+          "kanji": "箱",
+          "meaning_en": "Box",
+          "meaning_mm": "သေတ္တာ / ဗူး / ပုံး",
+          "onyomi": "-",
+          "kunyomi": "はこ",
+          "compounds": [
+            {
+              "kanji": "ゴミ箱",
+              "reading": "ゴミばこ",
+              "meaning_mm": "အမှိုက်ပုံး"
+            },
+            {
+              "kanji": "本箱",
+              "reading": "ほんばこ",
+              "meaning_mm": "စာအုပ်စင်"
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "kanji": "危",
+          "meaning_en": "Danger",
+          "meaning_mm": "အန္တရာယ်ရှိသော",
+          "onyomi": "キ",
+          "kunyomi": "あぶ（ない）",
+          "compounds": [
+            {
+              "kanji": "危険（な）",
+              "reading": "きけん",
+              "meaning_mm": "ဘေးအန္တရာယ်ရှိသော"
+            },
+            {
+              "kanji": "危ない",
+              "reading": "あぶない",
+              "meaning_mm": "အန္တရာယ်ရှိသော"
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "kanji": "険",
+          "meaning_en": "Steep / Sharp",
+          "meaning_mm": "စောက်သော / ပြင်းထန်သော",
+          "onyomi": "ケン",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "保険", "reading": "ほけん", "meaning_mm": "အာမခံ" },
+            {
+              "kanji": "険しい",
+              "reading": "けわしい",
+              "meaning_mm": "မတ်စောက်သော"
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "kanji": "捨",
+          "meaning_en": "Throw away",
+          "meaning_mm": "စွန့်ပစ်ခြင်း",
+          "onyomi": "-",
+          "kunyomi": "す（てる）",
+          "compounds": [
+            {
+              "kanji": "捨てる",
+              "reading": "すてる",
+              "meaning_mm": "စွန့်ပစ်သည်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "駅のホーム (Station Platform)",
+      "kanji_list": [
+        {
+          "id": 401,
+          "kanji": "線",
+          "meaning_en": "Line",
+          "meaning_mm": "မျဉ်း / လိုင်း",
+          "onyomi": "セン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "〜番線",
+              "reading": "ばんせん",
+              "meaning_mm": "--- လိုင်းနံပါတ်"
+            },
+            {
+              "kanji": "下線",
+              "reading": "かせん",
+              "meaning_mm": "အောက်မျဉ်းတားခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "kanji": "面",
+          "meaning_en": "Surface / Face",
+          "meaning_mm": "မျက်နှာပြင်",
+          "onyomi": "メン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "全面",
+              "reading": "ぜんめん",
+              "meaning_mm": "တစ်ခုလုံး"
+            },
+            {
+              "kanji": "画面",
+              "reading": "がめん",
+              "meaning_mm": "မျက်နှာပြင် Screen"
+            },
+            {
+              "kanji": "〇〇方面",
+              "reading": "ほうめん",
+              "meaning_mm": "--- ဘက်သို့"
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "kanji": "普",
+          "meaning_en": "Normal / General",
+          "meaning_mm": "သာမန် / အများသုံး",
+          "onyomi": "フ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "普通", "reading": "ふつう", "meaning_mm": "ပုံမှန်" }
+          ]
+        },
+        {
+          "id": 404,
+          "kanji": "各",
+          "meaning_en": "Each",
+          "meaning_mm": "အသီးသီး / တိုင်း",
+          "onyomi": "カク",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "各駅",
+              "reading": "かくえき",
+              "meaning_mm": "ဘူတာတိုင်း"
+            },
+            {
+              "kanji": "各國",
+              "reading": "かっこく",
+              "meaning_mm": "နိုင်ငံတိုင်း"
+            },
+            {
+              "kanji": "各自",
+              "reading": "かくじ",
+              "meaning_mm": "တစ်ဦးချင်းစီ"
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "kanji": "次",
+          "meaning_en": "Next",
+          "meaning_mm": "နောက်ထပ်",
+          "onyomi": "ジ",
+          "kunyomi": "つぎ",
+          "compounds": [
+            { "kanji": "次", "reading": "つぎ", "meaning_mm": "နောက်တစ်ခု" },
+            { "kanji": "目次", "reading": "もくじ", "meaning_mm": "မာတိကာ" },
+            {
+              "kanji": "次回",
+              "reading": "じかい",
+              "meaning_mm": "နောက်တစ်ခေါက်"
+            }
+          ]
+        },
+        {
+          "id": 406,
+          "kanji": "快",
+          "meaning_en": "Pleasant / Fast",
+          "meaning_mm": "သာယာသော / မြန်သော",
+          "onyomi": "カイ",
+          "kunyomi": "こころよ（い）",
+          "compounds": [
+            {
+              "kanji": "快速",
+              "reading": "かいそく",
+              "meaning_mm": "အမြန်လိုင်း"
+            }
+          ]
+        },
+        {
+          "id": 407,
+          "kanji": "速",
+          "meaning_en": "Fast",
+          "meaning_mm": "မြန်သော",
+          "onyomi": "ソク",
+          "kunyomi": "はや（い）",
+          "compounds": [
+            {
+              "kanji": "高速道路",
+              "reading": "こうそくどうろ",
+              "meaning_mm": "အမြန်လမ်း"
+            },
+            {
+              "kanji": "速度",
+              "reading": "そくど",
+              "meaning_mm": "အရှိန်နှုန်း"
+            },
+            { "kanji": "速い", "reading": "はやい", "meaning_mm": "မြန်သော" }
+          ]
+        },
+        {
+          "id": 408,
+          "kanji": "過",
+          "meaning_en": "Pass / Exceed",
+          "meaning_mm": "ကျော်လွန်ခြင်း",
+          "onyomi": "カ",
+          "kunyomi": "す（ぎる）",
+          "compounds": [
+            {
+              "kanji": "通過",
+              "reading": "つうか",
+              "meaning_mm": "ဖြတ်သန်းသွားခြင်း"
+            },
+            { "kanji": "過去", "reading": "かကို", "meaning_mm": "အတိတ်" },
+            {
+              "kanji": "過ぎる",
+              "reading": "すぎる",
+              "meaning_mm": "ကျော်လွန်သည်"
+            }
+          ]
+        },
+        {
+          "id": 409,
+          "kanji": "鉄",
+          "meaning_en": "Iron",
+          "meaning_mm": "သံ",
+          "onyomi": "テツ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "地下鉄",
+              "reading": "ちかてつ",
+              "meaning_mm": "မြေအောက်ရထား"
+            },
+            {
+              "kanji": "鉄道",
+              "reading": "てつどう",
+              "meaning_mm": "မီးရထားလမ်း"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "特急電車 (Special Express Train)",
+      "kanji_list": [
+        {
+          "id": 501,
+          "kanji": "指",
+          "meaning_en": "Finger / Point",
+          "meaning_mm": "လက်ချောင်း / ညွှန်ပြခြင်း",
+          "onyomi": "シ",
+          "kunyomi": "ゆび",
+          "compounds": [
+            {
+              "kanji": "指定",
+              "reading": "してい",
+              "meaning_mm": "သတ်မှတ်ချက်"
+            },
+            { "kanji": "指", "reading": "ゆび", "meaning_mm": "လက်ချောင်း" },
+            {
+              "kanji": "指定席",
+              "reading": "していせき",
+              "meaning_mm": "ကြိုတင်ဘိုကင်ထိုင်ခုံ"
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "kanji": "定",
+          "meaning_en": "Fix / Decide",
+          "meaning_mm": "သတ်မှတ်ခြင်း / အတည်ပြုခြင်း",
+          "onyomi": "テイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "定休日",
+              "reading": "ていきゅうび",
+              "meaning_mm": "ပုံမှန်ပိတ်ရက်"
+            },
+            {
+              "kanji": "安定",
+              "reading": "あんてい",
+              "meaning_mm": "တည်ငြိမ်မှု"
+            }
+          ]
+        },
+        {
+          "id": 503,
+          "kanji": "席",
+          "meaning_en": "Seat",
+          "meaning_mm": "ထိုင်ခုံ",
+          "onyomi": "セキ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "席",
+              "reading": "せき",
+              "meaning_mm": "ထိုင်ခုံ / နေရာ"
+            },
+            {
+              "kanji": "出席",
+              "reading": "しゅっせき",
+              "meaning_mm": "တက်ရောက်ခြင်း"
+            },
+            {
+              "kanji": "欠席",
+              "reading": "けっせき",
+              "meaning_mm": "ပျက်ကွက်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 504,
+          "kanji": "由",
+          "meaning_en": "Reason / Origin",
+          "meaning_mm": "အကြောင်းပြချက် / အရင်းအမြစ်",
+          "onyomi": "ユウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "自由",
+              "reading": "じゆう",
+              "meaning_mm": "လွတ်လပ်မှု"
+            },
+            {
+              "kanji": "自由席",
+              "reading": "じゆうせき",
+              "meaning_mm": "လွတ်လပ်စွာထိုင်နိုင်သောခုံ"
+            },
+            {
+              "kanji": "理由",
+              "reading": "りゆう",
+              "meaning_mm": "အကြောင်းပြချက်"
+            }
+          ]
+        },
+        {
+          "id": 505,
+          "kanji": "番",
+          "meaning_en": "Number / Order",
+          "meaning_mm": "နံပါတ် / အလှည့်",
+          "onyomi": "バン",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "番号", "reading": "ばんごう", "meaning_mm": "နံပါတ်" },
+            {
+              "kanji": "〜番線",
+              "reading": "ばんせん",
+              "meaning_mm": "--- လိုင်းနံပါတ်"
+            }
+          ]
+        },
+        {
+          "id": 506,
+          "kanji": "窓",
+          "meaning_en": "Window",
+          "meaning_mm": "ပြတင်းပေါက်",
+          "onyomi": "-",
+          "kunyomi": "まど",
+          "compounds": [
+            { "kanji": "窓", "reading": "まど", "meaning_mm": "ပြတင်းပေါက်" },
+            {
+              "kanji": "窓口",
+              "reading": "まどぐち",
+              "meaning_mm": "ဝန်ဆောင်မှုကောင်တာ"
+            }
+          ]
+        },
+        {
+          "id": 507,
+          "kanji": "側",
+          "meaning_en": "Side",
+          "meaning_mm": "ဘေးဘက် / အနား",
+          "onyomi": "-",
+          "kunyomi": "かわ",
+          "compounds": [
+            {
+              "kanji": "両側",
+              "reading": "りょうがわ",
+              "meaning_mm": "နှစ်ဖက်လုံး"
+            },
+            {
+              "kanji": "窓側",
+              "reading": "まどがわ",
+              "meaning_mm": "ပြတင်းပေါက်ဘက်"
+            },
+            { "kanji": "右側", "reading": "みぎがわ", "meaning_mm": "ညာဘက်" }
+          ]
+        },
+        {
+          "id": 508,
+          "kanji": "路",
+          "meaning_en": "Road / Path",
+          "meaning_mm": "လမ်း / လမ်းကြောင်း",
+          "onyomi": "ロ",
+          "kunyomi": "-",
+          "compounds": [
+            { "kanji": "道路", "reading": "どうろ", "meaning_mm": "လမ်းမကြီး" },
+            {
+              "kanji": "線路",
+              "reading": "せんろ",
+              "meaning_mm": "ရထားသံလမ်း"
+            },
+            {
+              "kanji": "通路",
+              "reading": "つうろ",
+              "meaning_mm": "လူလျှောက်လမ်း"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_title": "バス (Bus)",
+      "kanji_list": [
+        {
+          "id": 601,
+          "kanji": "停",
+          "meaning_en": "Halt / Stop",
+          "meaning_mm": "ရပ်နားခြင်း",
+          "onyomi": "テイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "停車",
+              "reading": "ていしゃ",
+              "meaning_mm": "ကားရပ်နားခြင်း"
+            },
+            {
+              "kanji": "バス停",
+              "reading": "バスてい",
+              "meaning_mm": "ဘတ်စ်ကားမှတ်တိုင်"
+            }
+          ]
+        },
+        {
+          "id": 602,
+          "kanji": "整",
+          "meaning_en": "Organize / Arrange",
+          "meaning_mm": "စီစဉ်ခြင်း / ပြင်ဆင်ခြင်း",
+          "onyomi": "セイ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "整理",
+              "reading": "せいり",
+              "meaning_mm": "သပ်သပ်ရပ်ရပ်စီစဉ်ခြင်း"
+            },
+            {
+              "kanji": "整理券",
+              "reading": "せいりけん",
+              "meaning_mm": "နံပါတ်စဉ်လက်မှတ်"
+            }
+          ]
+        },
+        {
+          "id": 603,
+          "kanji": "券",
+          "meaning_en": "Ticket",
+          "meaning_mm": "လက်မှတ်",
+          "onyomi": "ケン",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "駐車券",
+              "reading": "ちゅうしゃけん",
+              "meaning_mm": "ကားပါကင်လက်မှတ်"
+            },
+            {
+              "kanji": "乗車券",
+              "reading": "じょうしゃけん",
+              "meaning_mm": "ယာဉ်စီးလက်မှတ်"
+            },
+            {
+              "kanji": "回数券",
+              "reading": "かいすうけん",
+              "meaning_mm": "အကြိမ်ရေကန့်သတ်လက်မှတ်"
+            }
+          ]
+        },
+        {
+          "id": 604,
+          "kanji": "現",
+          "meaning_en": "Appear",
+          "meaning_mm": "ပေါ်ပေါက်လာခြင်း",
+          "onyomi": "ゲン",
+          "kunyomi": "あらわ（れる）",
+          "compounds": [
+            {
+              "kanji": "現金",
+              "reading": "げんきん",
+              "meaning_mm": "လက်ငင်းငွေသား"
+            },
+            {
+              "kanji": "現れる",
+              "reading": "あらわれる",
+              "meaning_mm": "ပေါ်လာသည်"
+            },
+            {
+              "kanji": "表現",
+              "reading": "ひょうげん",
+              "meaning_mm": "ဖော်ပြချက်"
+            }
+          ]
+        },
+        {
+          "id": 305,
+          "kanji": "両",
+          "meaning_en": "Both",
+          "meaning_mm": "နှစ်ဖက်လုံး",
+          "onyomi": "リョウ",
+          "kunyomi": "-",
+          "compounds": [
+            {
+              "kanji": "両親",
+              "reading": "りょうしん",
+              "meaning_mm": "မိဘနှစ်ပါး"
+            },
+            { "kanji": "〜両", "reading": "りょう", "meaning_mm": "--- တွဲ" },
+            {
+              "kanji": "両替",
+              "reading": "りょうがえ",
+              "meaning_mm": "ငွေလဲလှယ်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 606,
+          "kanji": "替",
+          "meaning_en": "Exchange / Replace",
+          "meaning_mm": "လဲလှယ်ခြင်း",
+          "onyomi": "-",
+          "kunyomi": "か（える）",
+          "compounds": [
+            {
+              "kanji": "取り替える",
+              "reading": "とりかえる",
+              "meaning_mm": "လဲလှယ်သည် / အသစ်လဲသည်"
+            },
+            {
+              "kanji": "着替える",
+              "reading": "きがえる",
+              "meaning_mm": "အဝတ်အစားလဲသည်"
+            },
+            {
+              "kanji": "両替",
+              "reading": "りょうがえ",
+              "meaning_mm": "ငွေလဲလှယ်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 607,
+          "kanji": "優",
+          "meaning_en": "Gentle / Superior",
+          "meaning_mm": "ထူးချွန်သော / ကြင်နာသော",
+          "onyomi": "ユウ",
+          "kunyomi": "やさ（しい）",
+          "compounds": [
+            {
+              "kanji": "優先席",
+              "reading": "ゆうせんせき",
+              "meaning_mm": "ဦးစားပေးထိုင်ခုံ"
+            },
+            {
+              "kanji": "優しい",
+              "reading": "やさしい",
+              "meaning_mm": "ကြင်နာသော"
+            },
+            { "kanji": "女優", "reading": "じょゆう", "meaning_mm": "မင်းသမီး" }
+          ]
+        },
+        {
+          "id": 608,
+          "kanji": "座",
+          "meaning_en": "Sit",
+          "meaning_mm": "ထိုင်ခြင်း",
+          "onyomi": "ザ",
+          "kunyomi": "すわ（る）",
+          "compounds": [
+            {
+              "kanji": "座席",
+              "reading": "ざせき",
+              "meaning_mm": "ထိုင်ခုံနေရာ"
+            },
+            { "kanji": "座る", "reading": "すわる", "meaning_mm": "ထိုင်သည်" },
+            {
+              "kanji": "正座",
+              "reading": "せいざ",
+              "meaning_mm": "ဂျပန်စတိုင်ဒူးတုပ်ထိုင်ခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 609,
+          "kanji": "降",
+          "meaning_en": "Descend / Get off",
+          "meaning_mm": "ဆင်းခြင်း",
+          "onyomi": "コウ",
+          "kunyomi": "お（りる） / ふ（る）",
+          "compounds": [
+            {
+              "kanji": "降車口",
+              "reading": "こうしゃぐち",
+              "meaning_mm": "ယာဉ်ပေါ်မှဆင်းရန်ပေါက်"
+            },
+            { "kanji": "降りる", "reading": "おりる", "meaning_mm": "ဆင်းသည်" },
+            { "kanji": "降る", "reading": "ふる", "meaning_mm": "မိုးရွာသည်" },
+            {
+              "kanji": "以降",
+              "reading": "いこう",
+              "meaning_mm": "မှစ၍ / နောက်ပိုင်း"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

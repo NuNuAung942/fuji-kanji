@@ -1,0 +1,297 @@
+{
+  "week": 3,
+  "week_title": "Week 3",
+  "days": [
+    {
+      "day": 1,
+      "day_title": "じゅうしょ",
+      "kanji_list": [
+        {
+          "id": 231,
+          "kanji": "起",
+          "meaning_en": "wake up / happen",
+          "meaning_mm": "နိုးထသည် / ဖြစ်ပွားသည်",
+          "onyomi": "キ",
+          "kunyomi": "お (きる) / お (こす)",
+          "compounds": [
+            {
+              "kanji": "起きる",
+              "reading": "おきる",
+              "meaning_mm": "အိပ်ရာထသည် / နိုးသည်"
+            },
+            {
+              "kanji": "起こす",
+              "reading": "おこす",
+              "meaning_mm": "နှိုးသည် / ဖြစ်ပွားစေသည်"
+            },
+            {
+              "kanji": "早起き",
+              "reading": "はやおき",
+              "meaning_mm": "စောစောထခြင်း"
+            },
+            {
+              "kanji": "起立する",
+              "reading": "きりつする",
+              "meaning_mm": "မတ်တပ်ရပ်သည်"
+            }
+          ]
+        },
+        {
+          "id": 232,
+          "kanji": "使",
+          "meaning_en": "use / messenger",
+          "meaning_mm": "အသုံးပြုသည် / စေလွှတ်သူ",
+          "onyomi": "シ",
+          "kunyomi": "つか (う)",
+          "compounds": [
+            {
+              "kanji": "使う",
+              "reading": "つかう",
+              "meaning_mm": "အသုံးပြုသည်"
+            },
+            {
+              "kanji": "大使館",
+              "reading": "たいしかん",
+              "meaning_mm": "သံရုံး"
+            },
+            {
+              "kanji": "使用中",
+              "reading": "しようちゅう",
+              "meaning_mm": "အသုံးပြုနေဆဲ"
+            }
+          ]
+        },
+        {
+          "id": 233,
+          "kanji": "始",
+          "meaning_en": "begin / start",
+          "meaning_mm": "စတင်သည်",
+          "onyomi": "シ",
+          "kunyomi": "はじ (める) / はじ (まる)",
+          "compounds": [
+            {
+              "kanji": "始める",
+              "reading": "はじめる",
+              "meaning_mm": "စတင်သည် (ကိုယ်တိုင်လုပ်ခြင်း)"
+            },
+            {
+              "kanji": "始まる",
+              "reading": "はじまる",
+              "meaning_mm": "စတင်သည် (အလိုအလျောက်ဖြစ်ခြင်း)"
+            },
+            {
+              "kanji": "開始する",
+              "reading": "かいしする",
+              "meaning_mm": "စတင်လုပ်ဆောင်သည်"
+            }
+          ]
+        },
+        {
+          "id": 234,
+          "kanji": "終",
+          "meaning_en": "end / finish",
+          "meaning_mm": "ပြီးဆုံးသည် / အဆုံးသတ်သည်",
+          "onyomi": "シュウ",
+          "kunyomi": "お (わる) / お (える)",
+          "compounds": [
+            {
+              "kanji": "終わる",
+              "reading": "おわる",
+              "meaning_mm": "ပြီးဆုံးသည်"
+            },
+            {
+              "kanji": "終わり",
+              "reading": "おわり",
+              "meaning_mm": "အဆုံးသတ်"
+            },
+            {
+              "kanji": "終電",
+              "reading": "しゅうでん",
+              "meaning_mm": "နောက်ဆုံးရထား"
+            }
+          ]
+        },
+        {
+          "id": 235,
+          "kanji": "貸",
+          "meaning_en": "lend / loan",
+          "meaning_mm": "ငှားသည် / ချေးငှားသည်",
+          "onyomi": "タイ",
+          "kunyomi": "か (す)",
+          "compounds": [
+            {
+              "kanji": "貸す",
+              "reading": "かす",
+              "meaning_mm": "ငှားသည်"
+            },
+            {
+              "kanji": "貸し出し",
+              "reading": "かしだし",
+              "meaning_mm": "ငှားထုတ်ပေးခြင်း"
+            },
+            {
+              "kanji": "賃貸",
+              "reading": "ちんたい",
+              "meaning_mm": "ငှားရမ်းခြင်း"
+            }
+          ]
+        },
+        {
+          "id": 236,
+          "kanji": "借",
+          "meaning_en": "borrow / rent",
+          "meaning_mm": "ငှားရမ်းသည် / ချေးသည်",
+          "onyomi": "シャク / シャッ",
+          "kunyomi": "か (りる)",
+          "compounds": [
+            {
+              "kanji": "借りる",
+              "reading": "かりる",
+              "meaning_mm": "ငှားသည်"
+            },
+            {
+              "kanji": "借金",
+              "reading": "しゃっきん",
+              "meaning_mm": "အကြွေး"
+            },
+            {
+              "kanji": "借用書",
+              "reading": "しゃくようしょ",
+              "meaning_mm": "အကြွေးစာချုပ်"
+            }
+          ]
+        },
+        {
+          "id": 237,
+          "kanji": "返",
+          "meaning_en": "return / pay back",
+          "meaning_mm": "ပြန်ပေးသည် / ပြန်ပို့သည်",
+          "onyomi": "ヘン",
+          "kunyomi": "かえ (す) / かえ (る)",
+          "compounds": [
+            {
+              "kanji": "返す",
+              "reading": "かえす",
+              "meaning_mm": "ပြန်ပေးသည်"
+            },
+            {
+              "kanji": "返事",
+              "reading": "へんじ",
+              "meaning_mm": "အဖြေ / တုံ့ပြန်မှု"
+            },
+            {
+              "kanji": "返却する",
+              "reading": "へんきゃくする",
+              "meaning_mm": "ပြန်လည်အပ်နှံသည်"
+            }
+          ]
+        },
+        {
+          "id": 238,
+          "kanji": "送",
+          "meaning_en": "send / escort",
+          "meaning_mm": "ပို့သည် / လိုက်ပို့သည်",
+          "onyomi": "ソウ",
+          "kunyomi": "おく (る)",
+          "compounds": [
+            {
+              "kanji": "送る",
+              "reading": "おくる",
+              "meaning_mm": "ပို့သည်"
+            },
+            {
+              "kanji": "見送る",
+              "reading": "みおくる",
+              "meaning_mm": "လိုက်ပို့သည် / နှုတ်ဆက်ပို့ဆောင်သည်"
+            },
+            {
+              "kanji": "送信する",
+              "reading": "そうしんする",
+              "meaning_mm": "ပေးပို့သည်"
+            }
+          ]
+        },
+        {
+          "id": 239,
+          "kanji": "結",
+          "meaning_en": "tie / bind / conclude",
+          "meaning_mm": "ချည်နှောင်သည် / အဆုံးသတ်သည်",
+          "onyomi": "ケツ / ケッ",
+          "kunyomi": "むす (ぶ) / ゆ (う)",
+          "compounds": [
+            {
+              "kanji": "結ぶ",
+              "reading": "むすぶ",
+              "meaning_mm": "ချည်သည် / ဆက်သွယ်သည်"
+            },
+            {
+              "kanji": "結婚する",
+              "reading": "けっこんする",
+              "meaning_mm": "လက်ထပ်သည်"
+            },
+            {
+              "kanji": "結局",
+              "reading": "けっきょく",
+              "meaning_mm": "နောက်ဆုံးတော့"
+            },
+            {
+              "kanji": "結論",
+              "reading": "けつろん",
+              "meaning_mm": "နိဂုံး / အဖြေ"
+            }
+          ]
+        },
+        {
+          "id": 240,
+          "kanji": "婚",
+          "meaning_en": "marriage",
+          "meaning_mm": "အိမ်ထောင်ရေး / လက်ထပ်ခြင်း",
+          "onyomi": "コン",
+          "kunyomi": "n/a",
+          "compounds": [
+            {
+              "kanji": "結婚",
+              "reading": "けっこん",
+              "meaning_mm": "လက်ထပ်ခြင်း"
+            },
+            {
+              "kanji": "新婚",
+              "reading": "しんこん",
+              "meaning_mm": "အိမ်ထောင်ဦး"
+            },
+            {
+              "kanji": "婚約する",
+              "reading": "こんやくする",
+              "meaning_mm": "စေ့စပ်သည်"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "じゅうしょ",
+      "kanji_list": []
+    },
+    {
+      "day": 3,
+      "day_title": "じゅうしょ",
+      "kanji_list": []
+    },
+    {
+      "day": 4,
+      "day_title": "じゅうしょ",
+      "kanji_list": []
+    },
+    {
+      "day": 5,
+      "day_title": "じゅうしょ",
+      "kanji_list": []
+    },
+    {
+      "day": 6,
+      "day_title": "じゅうしょ",
+      "kanji_list": []
+    }
+  ]
+}

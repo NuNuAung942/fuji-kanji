@@ -129,7 +129,7 @@ const KanjiCard: React.FC<KanjiCardProps> = ({
             <button
               onClick={(e) => {
                 e.stopPropagation();
-                onSpeak(data.kanji);
+                onSpeak(data.kunyomi !== "-" ? data.kunyomi : data.onyomi);
               }}
               className={`flex items-center gap-2 px-5 py-2 rounded-full border transition-colors ${
                 theme === "sakura"
